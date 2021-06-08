@@ -1,0 +1,1811 @@
+﻿stockid,symbol,company_name,security_type,sector,subsector
+1,A,Agilent Technologies Inc,Equity,Information Technology,0
+2,AA,Alcoa Inc.,Equity,Materials,0
+3,AAL,American Airls Group Inc,Equity,Industrials,Airlines
+4,AANR,Anr Inc Com Cl C New,Equity,Energy,0
+5,AANRC,Anr Inc Com Cl C New,Equity,Energy,0
+6,AAP,Advanced Autoparts,Equity,Consumer Discretionary,0
+7,AAPL,Apple Inc,Equity,Information Technology,Telecommunications Equipment
+8,AAXN,Axon Enterprise Inc,Equity,Industrials,0
+9,AB,Alliancebernstein Hldg LP,Equity,Financials,0
+10,ABB,ABB Ltd,Equity,Industrials,0
+11,ABBV,Abbvie Inc,Equity,Health Care,Pharmaceuticals: Major
+12,ABC,Amerisourcebergen Corp,Equity,Health Care,0
+13,ABI,Applera Applied Biosys,Equity,Health Care,0
+14,ABN,Abn-Amro Holding Nv ADR,Equity,Financials,0
+15,ABN+G,Abn Amro Cap Fund,Equity,0,0
+16,ABNB,Airbnb Inc,Equity,Communications,Internet Software/Services
+17,ABT,Abbott Labs,Equity,Health Care,Medical Specialties
+18,ABX,Barrick Gold Corp.,Equity,Materials,0
+19,AC,Alliance Cap Mgmt Hldg LP,Equity,Financials,0
+20,ACAM,Acamar Partners Acquisition Corp,Equity,Financials,0
+21,ACAS,American Capital Strategies,Equity,Financials,0
+22,ACB,Aurora Cannabis Inc,Equity,Health Care,Agricultural Commodities/Milling
+23,ACC,American Campus Communities Inc,Equity,Real Estate,0
+24,ACE,ACE LTD Switzerland,Equity,Financials,0
+25,ACG,AllianceBernstein Income      ,Equity,Corporate Bonds,0
+26,ACI,Arch Coal Inc,Equity,Energy,0
+27,ACL,Alcon Inc,Equity,Health Care,0
+28,ACM,Aecom Technology Corp,Equity,0,0
+29,ACN,Accenture plc,Equity,Information Technology,Information Technology Services
+30,ACS,Affiliated Computer Svcs Cl A,Equity,Information Technology,0
+31,ACTA,Actua Corp (NV),Equity,Financials,0
+32,ACU,Acme United Corp,Equity,Industrials,0
+33,ADBE,Adobe Systems Inc,Equity,Information Technology,0
+34,ADI,Analog Devices Inc,Equity,Information Technology,Semiconductors
+35,ADM,Archer-Daniels-Midlnd Co,Equity,Consumer Staples,0
+36,ADP,Automatic Data Processing,Equity,Information Technology,Data Processing Services
+37,ADPT,Adaptec Inc,Equity,Information Technology,0
+38,ADRNY,Koninklijke Ahold Delhaize NV ADR,Equity,Consumer Staples,0
+39,ADSK,Autodesk Inc,Equity,Information Technology,0
+40,ADVP,Advancepcs,Equity,Health Care,0
+41,ADVS,Advent Software Inc,Equity,Information Technology,0
+42,ADX,Adams Express                 ,Equity,Large Blend,0
+43,AEC,Associated Estate Realty,Equity,Financials,0
+44,AEE,Ameren Corporation,Equity,Utilities,0
+45,AEG,Aegon NV,Equity,Financials,0
+46,AEM,Agnico-Eagle Mines Ltd.,Equity,Materials,0
+47,AENY,Americas Energy Co,Equity,Energy,0
+48,AEO,Amern Eagle Outfitrs New,Equity,Consumer Discretionary,0
+49,AEP,American Elec Pwr Inc,Equity,Utilities,0
+50,AES,A E S Corp,Equity,Utilities,0
+51,AET,Aetna,Equity,Health Care,0
+52,AEV,Aegon Nv,Equity,Financials,0
+53,AFAM,Almost Family Inc,Equity,Health Care,0
+54,AFB,Allianceberstein Natl Fd,Equity,0,0
+55,AFFX,Affymetrix Inc,Equity,Health Care,0
+56,AFK,Ambac Financial,Equity,0,0
+57,AFL,A F L A C Inc,Equity,Financials,0
+58,AFRM,Affirm Holdings Inc,Equity,Information Technology,Internet Software/Services
+59,AFS,Associates First Cap Cla,Equity,Financials,0
+60,AGEN,Antigenics Inc De,Equity,Health Care,0
+61,AGL,Atlanta Gas,Equity,Utilities,0
+62,AGN,Allergan PLC,Equity,Health Care,0
+63,AGNC,American Captial Agency Corp.,Equity,Financials,0
+64,AGR,Agere Systems Inc,Equity,Information Technology,0
+65,AGRA,Agere Systems Inc Cl A,Equity,Information Technology,0
+66,AGRB,Agere Systems Inc Cl B,Equity,Information Technology,0
+67,AGX,Argan Inc,Equity,Industrials,0
+68,AHAA,Alpha Industries Inc,Equity,Information Technology,0
+69,AHO,Kninkljke Ahold New Adrf,Equity,Consumer Staples,0
+70,AHP,American Home Products,Equity,Health Care,0
+71,AHR,Anthracite Capital Inc,Equity,Financials,0
+72,AIG,American Intl Group Inc,Equity,Financials,Multi-Line Insurance
+73,AIGWS,American Intl Gp   21wts,Equity,Financials,0
+74,AIT,Ameritech Corp,Equity,Industrials,0
+75,AJG,Gallagher Arthur J & Co,Equity,Financials,0
+76,AKR,Acadia Realty TRUST,Equity,Financials,0
+77,AL,Air Lease Corp,Equity,Industrials,0
+78,ALB,Albemarle Corp,Equity,Materials,Chemicals: Specialty
+79,ALC,Alcon Inc Ord Shs,Equity,Health Care,0
+80,ALD,Allied Signal,Equity,Financials,0
+81,ALEX,Alexander&Baldwin,Equity,Industrials,0
+82,ALIM,Alimera Sciences Inc,Equity,Health Care,0
+83,ALL,Allstate Corporation,Equity,Financials,0
+84,ALLP,Alliance Pharmaceutical,Equity,Health Care,0
+85,ALTI,Altair Nanotech New,Equity,Industrials,0
+86,ALTR,Altera Corporation,Equity,Information Technology,0
+87,ALU,Alcatel Lucent Adr,Equity,Information Technology,0
+88,ALZ,Alabama Pwr Co,Equity,0,0
+89,AMAT,Applied Materials Inc,Equity,Information Technology,0
+90,AMB,A M B Property Corp,Equity,Financials,0
+91,AMBA,Ambarella Inc,Equity,Information Technology,0
+92,AMC,AMC Entertainment Holdings Inc,Equity,Consumer Discretionary,Movies/Entertainment
+93,AMCC,Applied Micro Circuits,Equity,Information Technology,0
+94,AMD,Advanced Micro Devices,Equity,Information Technology,Semiconductors
+95,AMGN,"Amgen, Inc.",Equity,Health Care,Biotechnology
+96,AMJ,JP Morgan MLP ETF,Equity,Energy,0
+97,AMLP,Alps Trust MLP ETF,Equity,Energy,0
+98,AMP,Ameriprise Financial,Equity,Financials,0
+99,AMR,Contura Energy Inc,Equity,Energy,Coal
+100,AMSG,Amsurg Corporation,Equity,Health Care,0
+101,AMT,American Tower Corp,Equity,Real Estate,Real Estate Investment Trusts
+102,AMX,America Movil Sab L Adrf,Equity,Communications,0
+103,AMZN,Amazon Com Inc,Equity,Consumer Discretionary,Internet Retail
+104,AN,Amoco,Equity,0,0
+105,ANCR,Ancor Communications Inc,Equity,Information Technology,0
+106,ANDD,Anr Inc Rt,Equity,Energy,0
+107,ANF,Abercrombie & Fitch Cl A,Equity,Consumer Discretionary,0
+108,ANIK,Anika Therapeutics Inc,Equity,Health Care,0
+109,ANNSF,Aena Sa Ord,Equity,Industrials,0
+110,ANSI,Adv Neuromodulation Sys,Equity,Health Care,0
+111,ANTM,Anthem Inc,Equity,Health Care,Managed Health Care
+112,AOA,iShares Core Aggressive Allocation ETF,Equity,Large Blend,0
+113,AOD,Alpine Total Dynamic Fd,Equity,0,0
+114,AOL,American Online,Equity,Information Technology,0
+115,AON,A O N Plc,Equity,Financials,Insurance Brokers/Services
+116,AOR,iShares Core Growth Allocation ETF,Equity,Large Blend,0
+117,APA,Apache Corp,Equity,Energy,0
+118,APC,Anadarko Petroleum Corp,Equity,Energy,0
+119,APCC,American Power Conversion,Equity,Industrials,0
+120,APD,Air Product & Chemicals,Equity,Materials,Chemicals: Specialty
+121,APH,Amphenol Corp.,Equity,Information Technology,Electronic Components
+122,APHA,Aphria Inc,Equity,Health Care,Wholesale Distributors
+123,APNR,Alpha Nat Res Hldgs Inc Com New,Equity,Energy,0
+124,APOL,Apollo Group Inc Cl A,Equity,Industrials,0
+125,APU,Amerigas Partners Lp,Equity,Utilities,0
+126,AQUNF,Algonquin Pwr &Utils Cpf,Equity,Utilities,0
+127,ARC,Atlantic Richfield,Equity,0,0
+128,ARCC,Ares Capital Corp,Equity,Financials,0
+129,ARCP,Amern Realty Cap Pptys,Equity,Financials,0
+130,ARE,Alexandria Real Est Eqty,Equity,Financials,0
+131,AREX,Approach Resources Inc,Equity,Energy,0
+132,AREXQ,Approach Resources Inc,Equity,0,0
+133,ARKF,ARK Fintech Innovation ETF,Equity,Information Technology,0
+134,ARKG,ARK Genomic Revolution ETF,Equity,Health Care,0
+135,ARKK,ARK Innovation ETF,Equity,Information Technology,0
+136,ARKQ,ARK Autonomous Technology&Robotics ETF,Equity,Information Technology,0
+137,ARKW,ARK Next Generation Internet ETF,Equity,Information Technology,0
+138,ARMK,Aramark,Equity,Consumer Discretionary,0
+139,ARNC,Arconic Inc,Equity,Industrials,0
+140,ARO,Aeropostale Inc,Equity,Consumer Discretionary,0
+141,ARTG,Art Technology Group Inc,Equity,Information Technology,0
+142,ASCLD,Ascential Software New,Equity,Information Technology,0
+143,ASH,Ashland Inc,Equity,Energy,0
+144,ASIX,Advansix Inc,Equity,Materials,0
+145,ASO,Amsouth Bancorp,Equity,Financials,0
+146,ATE,Atlantic Energy,Equity,Utilities,0
+147,ATG,Atlanta Gas Light,Equity,Utilities,0
+148,ATI,AirTouch,Equity,Materials,0
+149,ATK,Alliant Techsystems Inc,Equity,Industrials,0
+150,ATO,Atmos Energy Corp.,Equity,Utilities,0
+151,ATRX,Atrix Labs Inc,Equity,Health Care,0
+152,ATT,A T & T Inc,Equity,Corporate Bonds,0
+153,ATVI,Activision Inc,Equity,Communications,0
+154,AUB,Atlantic Un Bankshares Corp,Equity,Financials,Regional Banks
+155,AV,Avaya Inc,Equity,Communications,0
+156,AVB,Avalonbay Cmntys Inc,Equity,Real Estate,0
+157,AVGO,Broadcom Inc Com,Equity,Information Technology,0
+158,AVP,Avon Products Inc,Equity,Consumer Staples,0
+159,AVX,A V X Corp New,Equity,Information Technology,0
+160,AWE,A T & T Wireless,Equity,Communications,0
+161,AWK,American Water Works Co Inc,Equity,Utilities,Water Utilities
+162,AX,Axos Financial Inc,Equity,Financials,0
+163,AXP,American Express,Equity,Financials,0
+164,AXR,Amrep,Equity,0,0
+165,AYE,Allegheny Energy Inc,Equity,Utilities,0
+166,AZA,Alza Corporation,Equity,0,0
+167,AZN,Astrazeneca Plc Adr,Equity,Health Care,Pharmaceuticals: Major
+168,BA,Boeing Co.,Equity,Industrials,Aerospace & Defense
+169,BABA,Alibaba Group Hldg Adr,Equity,Information Technology,0
+170,BAC,Bank of America Corp,Equity,Financials,Major Banks
+171,BAC+H,Bank of America Pfd 8.20%,Equity,Preferred Stock,0
+172,BAC+Y,Bank Of Amer Cap Tr,Equity,Preferred Stock,0
+173,BAH,Booz Allen Hamilton Holding Corp,Equity,Industrials,0
+174,BAM,Brookfield Asset Mgm,Equity,Financials,0
+175,BANX,StoneCastle Financial Corp,Equity,Financials,0
+176,BARI,Bancorp Rhode Island Inc,Equity,Financials,0
+177,BASFY,Basf SE Adr,Equity,Materials,0
+178,BATRA,The Liberty Braves Group,Equity,Real Estate,Movies/Entertainment
+179,BAX,Baxter Intl Inc,Equity,Health Care,Medical Specialties
+180,BB,BlackBerry Ltd,Equity,Information Technology,Packaged Software
+181,BBBY,Bed Bath & Beyond,Equity,Consumer Discretionary,0
+182,BBC,BioShares™ Biotechnology Clinical Trials,Equity,0,0
+183,BBI,Barnett Banks Inc,Equity,0,0
+184,BBRY,Blackberry Limited,Equity,Information Technology,0
+185,BBT,BB&T Corp,Equity,Financials,0
+186,BBT+A,Bb&T Bank Enhncd,Equity,Preferred Stock,0
+187,BBT+B,BBT Cap Trust VI Pref,Equity,Preferred Stock,0
+188,BBT+E,Bb&T Corp Preferred,Equity,Preferred Stock,0
+189,BBT+G,Bb&T Corporation,Equity,Preferred Stock,0
+190,BBY,Best Buy Inc,Equity,Consumer Discretionary,0
+191,BC,Brunswick Corp,Equity,Consumer Discretionary,0
+192,BCE,B C E Inc,Equity,Communications,0
+193,BCF,Blackrock Real Asset Eq,Equity,0,0
+194,BCR,Bard C R Incorporated,Equity,Health Care,0
+195,BCRX,BioCryst Pharmaceuticals Inc,Equity,0,0
+196,BCS,Barclays Bank Plc Adr,Equity,Financials,0
+197,BCS+,Barclays Bk,Equity,Preferred Stock,0
+198,BCS+A,Barclays Bank,Equity,Preferred Stock,0
+199,BCU,Borden Chemical,Equity,0,0
+200,BCV,Bancroft Fund,Equity,Corporate Bonds,0
+201,BDG,Bandag Incorporated,Equity,Consumer Discretionary,0
+202,BDK,Black & Decker,Equity,Consumer Discretionary,0
+203,BDX,Becton Dickinson & Co,Equity,Health Care,Medical Specialties
+204,BEAV,BE Aerospace,Equity,Industrials,0
+205,BECN,Beacon Roofing Supply,Equity,Industrials,0
+206,BEL,Bell Atlantic Corp,Equity,Communications,0
+207,BEN,Franklin Resources Inc,Equity,Financials,0
+208,BFO,Bestfoods,Equity,Consumer Staples,0
+209,BFT,Bally Total Fitness Hldg,Equity,Consumer Discretionary,0
+210,BGC,General Cable Cp De New,Equity,Industrials,0
+211,BGEN,Biogen Inc,Equity,Health Care,0
+212,BGG,Briggs & Stratton Corp.,Equity,Consumer Discretionary,0
+213,BGNE,Beigene Ltd,Equity,Health Care,Biotechnology
+214,BGS,B&G Foods Inc,Equity,Consumer Staples,0
+215,BHI,Baker Hughes Inc,Equity,Energy,0
+216,BHP,Bhp Billiton PLC,Equity,Materials,0
+217,BID,Sotheby's,Equity,0,0
+218,BIDU,Baidu Inc Adr,Equity,Information Technology,0
+219,BIIB,Biogen Idec Inc,Equity,Health Care,0
+220,BJS,B J Services Co,Equity,Energy,0
+221,BK,Bank of New York,Equity,Financials,0
+222,BK+E,Bank Of NY Cap Trust IV,Equity,Preferred Stock,0
+223,BKLN,Powershares Sr. Loan Portfolio Etf,Equity,Corporate Bonds,0
+224,BKNG,Booking Holdings,Equity,Consumer Discretionary,Other Consumer Services
+225,BKSO,Bank South Corp,Equity,0,0
+226,BKUNA,Bankunited Finl Corp A,Equity,Financials,0
+227,BLBD,Blue Bird Corp,Equity,Industrials,0
+228,BLDP,Ballard Power Systems,Equity,Energy,0
+229,BLK,Blackrock Inc,Equity,Financials,0
+230,BLS,Bellsouth Corp,Equity,Communications,0
+231,BLW,Blackrock Ltd Duration,Equity,Corporate Bonds,0
+232,BLX,Banco Latinoamercano,Equity,Financials,0
+233,BMET,Biomet Incorporated,Equity,Health Care,0
+234,BMI,Badger Meter,Equity,Information Technology,0
+235,BMO,Bank Montreal Quebec,Equity,Financials,0
+236,BMTC,Bryn Mawr Bank Corp,Equity,Financials,0
+237,BMY,Bristol Myers Squibb Co,Equity,Health Care,Pharmaceuticals: Major
+238,BN,"Borden, Inc",Equity,0,0
+239,BND,Vanguard Total Bond Market ETF,Equity,Corporate Bonds,0
+240,BNDX,Vanguard Total Internatl,Equity,Multi-Sector Bond,0
+241,BNET,Bion Enviro Tech New,Equity,Industrials,0
+242,BNGO,Bionano Genomics Inc,Equity,Health Care,Biotechnology
+243,BNI,Burlington Northern-SFP,Equity,Industrials,0
+244,BNI+,Burlington Nthn 5.50%,Equity,Preferred Stock,0
+245,BNN,Blackrock 1999 Term Tr,Equity,0,0
+246,BOE,Black Rock Global Opptys,Equity,0,0
+247,BOFI,Bofi Holding Inc,Equity,Financials,0
+248,BOJF,James Financial Grp Inc,Equity,Financials,0
+249,BOX,B O C Group Plc Sp Adr,Equity,Materials,0
+250,BP,BP p.l.c.,Equity,Energy,0
+251,BPL,Buckeye Partners Uts L P,Equity,Energy,0
+252,BPOP,Popular Inc,Equity,Financials,0
+253,BPWWS,Bpw Acquisition Cp 14wts,Equity,0,0
+254,BR,Broadridge Financial Solutions,Equity,Financials,0
+255,BRCD,Brocade Communs Sys Inc,Equity,Information Technology,0
+256,BRCM,Broadcom Corp Cl A,Equity,Information Technology,0
+257,BREW,Craft Brew Alliance,Equity,Consumer Staples,0
+258,BRK B,BERKSHIRE HATHAWAY INCORPORATED CLASS B,Equity,Financials,0
+259,BRKB,Berkshire Hathaway Inc,Equity,Financials,Insurance-Diversified
+260,BRL,Barr Laboratories Inc,Equity,Health Care,0
+261,BROLD,Burlington Resources,Equity,Energy,0
+262,BRU,Burlington Coal Royalty,Equity,0,0
+263,BSX,Boston Scientific Corp,Equity,Health Care,0
+264,BTE,Baytex Energy Corp,Equity,Energy,0
+265,BTEGF,Baytex Energy Corp Com,Equity,Energy,Oil & Gas Production
+266,BTU,Peabody Energy Corp,Equity,Energy,0
+267,BUCY,Bucyrus Intl Inc,Equity,Industrials,0
+268,BUD,Anheuser Busch Co Inc,Equity,Consumer Staples,0
+269,BUFF,Blue Buffalo Pet Pro,Equity,Consumer Staples,0
+270,BWP,Boardwalk Pipeline Ptnrs,Equity,Energy,0
+271,BWX,Spdr Barclays Cap Intl,Equity,Government Bonds,0
+272,BWXT,Bwx Technologies Inc,Equity,Industrials,Electric Utilities
+273,BX,Blackstone Group,Equity,Financials,Investment Managers
+274,BXLT,Baxalta Incorporated,Equity,Health Care,0
+275,BXP,Boston Properties Inc,Equity,Financials,0
+276,C,Citigroup,Equity,Financials,Financial Conglomerates
+277,C+R,Citigroup Cap X,Equity,Preferred Stock,0
+278,C+V,Citigroup Capital VII,Equity,Preferred Stock,0
+279,C+W,Citigroup Capital  V 7.00%,Equity,Preferred Stock,0
+280,CA,Computer Assoc Int'l Inc,Equity,Information Technology,0
+281,CAG,Con Agra,Equity,Consumer Staples,0
+282,CAH,Cardinal Health Inc,Equity,Health Care,0
+283,CAM,Cameron Intl Corp,Equity,Energy,0
+284,CAMP,Calamp Corp,Equity,0,0
+285,CAR,Avis Budget Group Inc,Equity,Industrials,0
+286,CARA,Cara Therapeutics Inc,Equity,Health Care,0
+287,CAT,Caterpillar Inc.,Equity,Industrials,Trucks/Construction/Farm Machinery
+288,CB,Chubb Corporation,Equity,Financials,0
+289,CBB,Cincinnati Bell,Equity,Communications,0
+290,CBG,C B Richard Ellis Group,Equity,Financials,0
+291,CBS,Cbs Corporation Cl B New,Equity,Communications,0
+292,CBT,Cabot Corporation,Equity,Materials,0
+293,CBY,Cadbury Plc Adr,Equity,Consumer Staples,0
+294,CC,Chemours Corp,Equity,Materials,0
+295,CCE,Coca-Cola Enterprises,Equity,Consumer Staples,0
+296,CCI,Crown Castle International,Equity,Communications,0
+297,CCJ,Cameco Corp,Equity,Energy,0
+298,CCK,Crown Cork & Seal,Equity,Materials,0
+299,CCL,Carnival Corp Class A,Equity,Consumer Discretionary,0
+300,CCP,Care Capital Propert,Equity,Financials,0
+301,CCT,Comcast SR NTdue 5/15/2055,Equity,Preferred Stock,0
+302,CD,Cendant Corp,Equity,Industrials,0
+303,CDDUM,Consumer Discretionary Dummy,Equity,Consumer Discretionary,0
+304,CDIC,Cardinal Distribution,Equity,0,0
+305,CDK,Cdk Global Inc,Equity,Information Technology,0
+306,CDL,Citadel Broadcasting CP,Equity,Consumer Discretionary,0
+307,CDMS,Cadmus,Equity,Consumer Discretionary,0
+308,CDNS,Cadence Design System,Equity,Information Technology,0
+309,CEFT,Concord E F S Inc,Equity,Financials,0
+310,CEG,Constellation Energy Co,Equity,Utilities,0
+311,CELG,Celgene Corp,Equity,Health Care,0
+312,CEM,Clearbridge Energy MLP FD Inc.,Equity,Energy,0
+313,CEO,Cnooc Limited Adr,Equity,Energy,0
+314,CERN,Cerner Corp,Equity,Health Care,0
+315,CFC,Countrywide Financial Cp,Equity,Financials,0
+316,CFG,Citizens Financial Group Inc,Equity,Financials,Regional Banks
+317,CFL,CoreStates Financial,Equity,0,0
+318,CFNL,Cardinal Financial Corp,Equity,Financials,0
+319,CFX,Colfax Corporation,Equity,Industrials,0
+320,CG,Carlyle Group,Equity,Financials,0
+321,CGC,Canopy Growth Corp,Equity,Health Care,Agricultural Commodities/Milling
+322,CGNX,Cognex Corp,Equity,Information Technology,0
+323,CGW,Guggenheim Global Water ETF,Equity,Utilities,0
+324,CHD,Church & Dwight Co,Equity,Consumer Staples,0
+325,CHH,Choice Hotels Intl New,Equity,Consumer Discretionary,0
+326,CHK,Chesapeake Energy,Equity,Energy,0
+327,CHKAQ,Chesapeake Energy Corp,Equity,0,0
+328,CHKP,Check Pt Software Tech,Equity,Information Technology,0
+329,CHL,China Mobile Ltd Adr,Equity,Communications,0
+330,CHRW,C H Robinson Worldwd New,Equity,Industrials,0
+331,CHS,Chicos Fas Inc,Equity,Consumer Discretionary,0
+332,CHTR,Charter Communications,Equity,Communications,Cable/Satellite TV
+333,CHV,Chevron Corp.,Equity,Energy,0
+334,CI,CIGNA Corp,Equity,Health Care,0
+335,CIB,Bancolombia S A Adr,Equity,Financials,0
+336,CINF,Cincinnati Financial Cp,Equity,Financials,0
+337,CISI,C I S Technologies,Equity,0,0
+338,CIU,Ishares Tr Barclays Bond,Equity,0,0
+339,CL,Colgate-Palmolive Co,Equity,Consumer Staples,Household/Personal Care
+340,CLB,Core Labs,Equity,Energy,0
+341,CLI,Mack Cali Realty Corp,Equity,Financials,0
+342,CLP,Colonial Properties Tr,Equity,Financials,0
+343,CLX,Clorox,Equity,Consumer Staples,0
+344,CMB,Chase Manhattan Bank,Equity,Financials,0
+345,CMCSA,Comcast,Equity,Communications,0
+346,CMCSK,Comcast Corp Spl Cl A,Equity,Consumer Discretionary,0
+347,CME,CME Group Inc,Equity,Financials,Investment Banks/Brokers
+348,CMG,Chipotle Mexican Grill,Equity,Consumer Discretionary,Restaurants
+349,CMGI,C M G I Inc,Equity,Information Technology,0
+350,CMH+,Compass Trust Cap III,Equity,Preferred Stock,0
+351,CMI,Cummins Inc.,Equity,Industrials,0
+352,CML,CML Group,Equity,0,0
+353,CMOZ,Cosmoz.Com Inc,Equity,Information Technology,0
+354,CMP,Compass Minerals Intl Inc.,Equity,Materials,0
+355,CMS,CMS Energy,Equity,Utilities,0
+356,CMVT,Comverse Technology,Equity,Information Technology,0
+357,CMX,Caremark Rx Inc,Equity,Health Care,0
+358,CNB,Colonial Bancgroup Inc,Equity,Financials,0
+359,CNC,Conseco Inc,Equity,Financials,0
+360,CNI,Canadian Natl Ry Co,Equity,Industrials,0
+361,CNL GROW,CNL Growth Fund,Equity,Financials,0
+362,CNL III,CNL Income Fund III,Equity,Financials,0
+363,CNL LP,CNL Income Fund LP,Equity,Financials,0
+364,CNP,Centerpoint Energy Inc,Equity,Utilities,0
+365,CNTE,Contura Energy Inc,Equity,Energy,0
+366,CNXT,Conexant Systems Inc,Equity,Information Technology,0
+367,COF,Capital One Financial Cp,Equity,Financials,Major Banks
+368,COF+B,Cap One Cap II,Equity,Preferred Stock,0
+369,COH,Coach Inc,Equity,Consumer Discretionary,0
+370,COIN,COINBASE GLOBAL CL A ORD,Equity,Information Technology,Internet Software/Services
+371,COKE,Coca Cola Bottlg Co Cons,Equity,Consumer Staples,0
+372,COL,"Rockwell Collins, Inc.",Equity,Industrials,0
+373,COLD,Americold Realty Trust,Equity,Real Estate,0
+374,COLH,Columbia Healthcare,Equity,Industrials,0
+375,COP,Conocophillips,Equity,Energy,0
+376,COST,Costco Whsl Corp New,Equity,Consumer Staples,Specialty Stores
+377,COV,"Covidien, LTD",Equity,Health Care,0
+378,CP,Canadian Pac Railway,Equity,Industrials,0
+379,CPB,Campbell Soup,Equity,Consumer Staples,0
+380,CPC,CPC International,Equity,0,0
+381,CPGX,Columbia Pipeline Gr,Equity,Energy,0
+382,CPKF,Chesapeake Financial Shares Inc,Equity,Financials,Financial Conglomerates
+383,CPL,Carolina Power & Light,Equity,Utilities,0
+384,CPMV,Mosaic ImmunoEngineering Inc,Equity,Health Care,0
+385,CPO,Corn Products Intl Inc,Equity,Consumer Staples,0
+386,CPRT,Copart Inc,Equity,Consumer Discretionary,0
+387,CPT,Camden Property TRUST,Equity,Financials,0
+388,CRBQ,Jefferies TR/J Global Commodity ETF,Equity,Large Blend,0
+389,CRC,California Res Corp,Equity,Energy,0
+390,CREE,Cree Inc,Equity,Information Technology,0
+391,CRL,Charles River Laboratories International Inc,Equity,Health Care,Miscellaneous Commercial Services
+392,CRM,Salesforce.com Inc,Equity,Information Technology,Packaged Software
+393,CRON,Cronos Group Inc,Equity,Consumer Discretionary,0
+394,CRP,Credit Suisse,Equity,Preferred Stock,0
+395,CRRTF,Crescita Therapeutics Inc,Equity,Financials,0
+396,CRSP,Crispr Therapeutics Agnamen Akt,Equity,Health Care,Biotechnology
+397,CRUS,Cirrus Logic,Equity,Information Technology,0
+398,CSC,Computer Sciences Corp,Equity,Information Technology,0
+399,CSCO,Cisco Sys Inc,Equity,Information Technology,Information Technology Services
+400,CSDUM,Consumer Staple Dummy,Equity,Consumer Staples,0
+401,CSE,Capitalsource Inc,Equity,Financials,0
+402,CSG,Cadbury Schweppes ADR,Equity,Consumer Staples,0
+403,CSGP,Costar Group Inc,Equity,Information Technology,Internet Software/Services
+404,CSGS,C S G Systems Intl Inc,Equity,Information Technology,0
+405,CSK,Chesapeake Corp,Equity,Materials,0
+406,CSQ,Calamos Strgc Tot Ret Fd,Equity,Large Blend,0
+407,CSR,Central & South West,Equity,Utilities,0
+408,CSX,CSX Corp,Equity,Industrials,Railroads
+409,CTAS,Cintas Corp,Equity,Industrials,0
+410,CTDB,Citadel Broadcasting,Equity,Consumer Discretionary,0
+411,CTL,Century Link,Equity,Communications,0
+412,CTRA,Contura Energy Inc,Equity,Energy,0
+413,CTSH,Cognizant Tech Sol Cl A,Equity,Information Technology,0
+414,CTV,Commscope Inc,Equity,Information Technology,0
+415,CTVA,Corteva Inc com,Equity,Materials,0
+416,CTXS,Citrix Systems Inc,Equity,Information Technology,0
+417,CUNO,"CUNO, Incorporated",Equity,0,0
+418,CVAN,Crown Vantage,Equity,0,0
+419,CVE,Cenovus Energy,Equity,Energy,0
+420,CVG,Convergys Corp,Equity,Information Technology,0
+421,CVH,Coventry Health Care Inc,Equity,Health Care,0
+422,CVS,CVS Health Corp,Equity,Health Care,Drugstore Chains
+423,CVTY,Coventry Corp - Common,Equity,Health Care,0
+424,CVX,Chevron Corp.,Equity,Energy,Integrated Oil
+425,CVXHF,Calico Resources Corp,Equity,Materials,0
+426,CWP,Cable & Wireless Phones,Equity,Communications,0
+427,CYB,Wisdomtree Chinese Yuan,Equity,0,0
+428,CYCCP,Cyclacel Pharma Conv Pfd,Equity,Preferred Stock,0
+429,CYN,City National Corp,Equity,Financials,0
+430,CYTK,Cytokinetics Inc,Equity,Health Care,0
+431,CYTX,Cytori Therapeutics New,Equity,Health Care,0
+432,D,Dominion Energy Inc.,Equity,Utilities,Electric Utilities
+433,D+A,Dominion Res Cap,Equity,0,0
+434,DAI,Daimler A G,Equity,Consumer Discretionary,0
+435,DAL,Delta Air Lines,Equity,Industrials,Airlines
+436,DANG,E-Commerce China Adr,Equity,Consumer Discretionary,0
+437,DATA,Tableau Software Inc,Equity,Information Technology,0
+438,DBC,Poweshares DB Commodity,Equity,Natural Resources,0
+439,DBD,Diebold Incorporated,Equity,Information Technology,0
+440,DBEF,Deutsch X Trk Msci Eafe,Equity,International,0
+441,DBTK,Double Take Software,Equity,Information Technology,0
+442,DCI,Donaldson Company Inc,Equity,Industrials,0
+443,DCT,Dct Indl Tr Inc,Equity,Financials,0
+444,DD,EI Dupont Denemours & Co,Equity,Materials,0
+445,DD/PB,E.I. du Pont de Nemours & Co,Equity,Financials,0
+446,DD+A,Du Pont E I $3.50 Preferred,Equity,Preferred Stock,0
+447,DD+B,Du Pont E I $4.50 Pfd,Equity,Preferred Stock,0
+448,DDD,3 D Systems Corp,Equity,Information Technology,0
+449,DDF,Delaware Grp Div&Incm Fd,Equity,0,0
+450,DDM,Proshares Ultra Dow,Equity,Large Blend,0
+451,DDR,Devl Diversified Rlty,Equity,Financials,0
+452,DE,Deere & Co,Equity,Industrials,Trucks/Construction/Farm Machinery
+453,DEC,Digital Equipment Co.,Equity,0,0
+454,DELL,Dell Computer Corp,Equity,Information Technology,Computer Processing Hardware
+455,DEM,Wisdomtree Emerging Mkts - ETF,Equity,International,0
+456,DEO,Diageo Plc New Adr,Equity,Consumer Staples,0
+457,DFE,Wisdomtree Europe Smlcp,Equity,International,0
+458,DFS,Discover Financial Svcs,Equity,Financials,0
+459,DG,Dollar General Corp,Equity,Consumer Discretionary,0
+460,DGS,Wsdmtree Emrg Mkts,Equity,International,0
+461,DGX,Quest Diagnostic Inc,Equity,Health Care,0
+462,DHR,Danaher Corp Del,Equity,Health Care,Medical Specialties
+463,DHS,WisdomTree US High Dividend ETF,Equity,Large Blend,0
+464,DIA,Diamond Trust Series I,Equity,Large Blend,0
+465,DIS,Disney Walt Co,Equity,Communications,Cable/Satellite TV
+466,DISCA,DISCOVERY INC - A,Equity,Communications,0
+467,DISCK,Discovery Comm Inc,Equity,Communications,0
+468,DISH,Dish Network,Equity,Communications,0
+469,DKS,Dick's Sporting Goods,Equity,Consumer Discretionary,0
+470,DLM,Del Monte Foods Co,Equity,Consumer Staples,0
+471,DLR,Digital Realty TRUST Inc,Equity,Real Estate,Real Estate Investment Trusts
+472,DLTR,Dollar Tree Stores,Equity,Consumer Discretionary,0
+473,DLX,Deluxe Corporation,Equity,Industrials,0
+474,DM,Dominion Energy Midstream Prtn,Equity,Energy,0
+475,DNA,Genentech Inc New,Equity,Health Care,0
+476,DNR,Denbury Res Inc New,Equity,Energy,0
+477,DOCU,Docusign INC,Equity,Information Technology,Packaged Software
+478,DON,WisdomTree US MidCap Dividend ETF,Equity,Mid Cap Blend,0
+479,DOV,Dover,Equity,Industrials,0
+480,DOW,Dow Chemical,Equity,Materials,0
+481,DOX,Amdocs Limited,Equity,Information Technology,0
+482,DPH,Delphi Automotive System,Equity,Consumer Discretionary,0
+483,DPS,Dr Pepper Snapple Group,Equity,Consumer Staples,0
+484,DPTR,Delta Petroleum Corp,Equity,Energy,0
+485,DPTRD,Delta Petroleum Corp New,Equity,Energy,0
+486,DPX,Duplex products,Equity,0,0
+487,DRE,Duke Realty Corp,Equity,Financials,0
+488,DRH,Diamondrock Hospitality,Equity,Financials,0
+489,DRI,Darden Restaurants,Equity,Consumer Discretionary,0
+490,DRKOD,Newcastle Energy New,Equity,Energy,0
+491,DRKOF,Newcastle Energy New,Equity,Energy,0
+492,DSL,Doubleline Inc Solutions,Equity,Corporate Bonds,0
+493,DSP,Sp Acquisition Hldgs Inc,Equity,0,0
+494,DSPWS,Sp Acquisition Hldg 12wt,Equity,0,0
+495,DSW,D S W Inc,Equity,Consumer Discretionary,0
+496,DTE,D T E Energy Company,Equity,Utilities,0
+497,DTV,Directv,Equity,Consumer Discretionary,0
+498,DUA,Deutsche Bank,Equity,Preferred Stock,0
+499,DUK,Duke Energy Corp.,Equity,Utilities,Electric Utilities
+500,DUKH,Duke Energy,Equity,Energy,0
+501,DVA,Davita Inc,Equity,Health Care,0
+502,DVMT,Dell Technologies In,Equity,Information Technology,0
+503,DVN,Devon Energy CP,Equity,Energy,0
+504,DVY,Ishares Dj Select Div Fd,Equity,Large Blend,0
+505,DWDP,Dowdupont Inc,Equity,Financials,0
+506,DWM,Wisdomtree Diefa,Equity,0,0
+507,DXC,D X C Technology Com,Equity,Information Technology,0
+508,DXJ,Wisdomtree Jpn Hdgd Eqty,Equity,International,0
+509,EA,ELECTRONIC ARTS INC,Equity,Communications,0
+510,EAD,Evergreen Income Advantage,Equity,0,0
+511,EADSY,Airbus Group Se,Equity,Industrials,Aerospace & Defense
+512,EBAY,Ebay Inc,Equity,Information Technology,0
+513,ECA,Encana,Equity,Energy,0
+514,ECL,Ecolab Inc,Equity,Industrials,0
+515,ED,Consolidated Edison,Equity,Utilities,0
+516,EDE,Empire District Elec Co,Equity,Utilities,0
+517,EDIT,Editas Medicine Inc,Equity,Health Care,0
+518,EDS,Electronic Data Sys Corp,Equity,Information Technology,0
+519,EDUM,Energy Dummy,Equity,Energy,0
+520,EDV,Vanguard Extended,Equity,Government Bonds,0
+521,EEM,ishares emerging market,Equity,International,0
+522,EEMV,iShares MSCI Emerging Markets,Equity,International,0
+523,EFA,Ishares Tr Msci Eafe Fd,Equity,International,0
+524,EFAV,Ishares Msci Eafe Min,Equity,International,0
+525,EFG,Ishares Msci Gwth Idx Fd,Equity,International,0
+526,EIV,Eaton Vance Mun Bd Fd II,Equity,Municipal Bonds,0
+527,EIX,Edison International,Equity,Utilities,0
+528,EL,Estee Lauder Co Inc Cl A,Equity,Consumer Discretionary,0
+529,ELF,Elf Aquitaine Spon Adr,Equity,Energy,0
+530,ELJ,Eljer Industries,Equity,0,0
+531,ELN,Elan Corp Plc Spon Adr,Equity,Health Care,0
+532,ELS,Equity Lifestyle Ppt,Equity,Real Estate,0
+533,ELY,Callaway Golf Co,Equity,Consumer Discretionary,0
+534,EMB,iShares JPMorgan USD Emerg Markets Bond,Equity,0,0
+535,EMC,E M C Corp,Equity,Information Technology,0
+536,EMF,Templeton Emerg'g             ,Equity,International,0
+537,EMIEX,Columbia International Value Fund,Equity,International,0
+538,EMLX,Emulex Corp New,Equity,Information Technology,0
+539,EMN,Eastman Chemical Co,Equity,Materials,0
+540,EMPI,Empi Inc.,Equity,0,0
+541,EMR,Emerson Electric,Equity,Industrials,0
+542,EMRGD,Emerge Interactive New,Equity,Information Technology,0
+543,ENB,Enbridge Inc,Equity,Energy,0
+544,ENDP,Endo Pharm Holdings Inc,Equity,Health Care,0
+545,ENLK,Enlink Midstream Ptrs Lp,Equity,Energy,0
+546,ENZN,Enzon Inc,Equity,Health Care,0
+547,EOG,EOG Resources Inc,Equity,Energy,0
+548,EP,El Paso Corporation,Equity,Utilities,0
+549,EP+C,El Paso Energy Cv Pfd,Equity,Preferred Stock,0
+550,EPD,Enterprise Prods Prtnrs LP,Equity,Energy,0
+551,EQ,Embarq Corp,Equity,Communications,0
+552,EQC,Commonwealth REIT,Equity,Financials,0
+553,EQH,Equitable Holdings Inc,Equity,Financials,0
+554,EQL,Large Blend Equity Placeholder,Equity,Large Blend,0
+555,EQR,Equity Residential,Equity,Financials,0
+556,EQT,EQT Corp,Equity,Utilities,0
+557,ERF,Enerplus Corp,Equity,Energy,0
+558,ERICD,Ericsson Tel Adr,Equity,Information Technology,0
+559,ERICR,Ericsson Lm Tel  02 Rtsf,Equity,0,0
+560,ERTS,Electronic Arts Inc,Equity,Information Technology,0
+561,ESA,Extended Stay Amer Inc,Equity,0,0
+562,ESRX,Express Scripts Hldg Inc,Equity,Health Care,0
+563,ESS,Essex Property TRUST Inc,Equity,Financials,0
+564,ESV,Ensco Intl Inc,Equity,Energy,0
+565,ET,Energy Transfer Equity LP,Equity,Energy,0
+566,ETN,Eaton Corp Plc,Equity,Industrials,0
+567,ETP,Energy Transfer Prtnrs LP,Equity,Energy,0
+568,ETSY,Etsy Inc com,Equity,Consumer Discretionary,Miscellaneous Commercial Services
+569,ETY,Eaton Vance Tax Advantage,Equity,0,0
+570,EV,Eaton Vance Cp Non Vtg,Equity,Financials,0
+571,EVBS,Eastern Va Bankshares,Equity,Financials,0
+572,EVG,Eaton Vance Sht Dur Incm,Equity,Corporate Bonds,0
+573,EVMD,Everest Medical Corp,Equity,0,0
+574,EVN,Eaton Vance Muni Income Trust,Equity,Municipal Bonds,0
+575,EVV,Eaton Vance  Limited Duration Income Common,Equity,Corporate Bonds,0
+576,EW,Edwards Lifesciences Cp,Equity,Health Care,0
+577,EWC,Ishares Msci Cda Idx Fd,Equity,International,0
+578,EXC,Exelon Corp.,Equity,Utilities,0
+579,EXG,Eaton Vance Tax Managed,Equity,0,0
+580,EXPE,Expedia,Equity,Consumer Discretionary,0
+581,EY,Ethyl Corp Common,Equity,Materials,0
+582,EZY,Wisdomtree TRUST,Equity,Large Blend,0
+583,F,Ford Mtr Company,Equity,Consumer Discretionary,0
+584,F+S,Ford Motor Co Cap,Equity,Corporate Bonds,0
+585,FANG,Diamondback Energy Inc,Equity,Energy,0
+586,FARO,Faro Technologies Inc,Equity,Information Technology,0
+587,FAST,Fastenal Co,Equity,Industrials,Wholesale Distributors
+588,FAX,Aberdeen Asia-Pac. Fd.        ,Equity,International,0
+589,FB,Facebook Inc,Equity,Communications,Internet Software/Services
+590,FBT,First Trust NYSE Arca Biotech ETF,Equity,Health Care,Investment Trusts/Mutual Funds
+591,FCAU,Fiat Chrysler Auto,Equity,Consumer Discretionary,0
+592,FCEL,FuelCell Energy Inc,Equity,Industrials,Electronic Equipment/Instruments
+593,FCH,Felcor Lodging Tr Inc,Equity,Financials,0
+594,FCL,First Colony Corp,Equity,0,0
+595,FCX,Freeport McMoran Copper & Gold,Equity,Materials,0
+596,FD,Federated Department Stores,Equity,Consumer Discretionary,0
+597,FDC,First Data Corporation,Equity,Information Technology,0
+598,FDG,Fording Ca Coal TRUST,Equity,Materials,0
+599,FDIS,Fidelity® MSCI Consumer Discret ETF,Equity,0,0
+600,FDL,First Tr Morningstar Div,Equity,Large Blend,0
+601,FDLNB,Food Lion Inc. Class B,Equity,0,0
+602,FDN,First TRUST Internet,Equity,Information Technology,0
+603,FDO,Family Dollar Stores,Equity,Consumer Discretionary,0
+604,FDS,Factset Research Systems,Equity,Information Technology,0
+605,FDX,FedEx Corporation,Equity,Industrials,Air Freight/Couriers
+606,FE,Firstenergy Corp,Equity,Utilities,0
+607,FEI,First Trust MLP & Energy,Equity,Energy,0
+608,FEMB,Frst Trt Emrg Mkts Lcl,Equity,Multi-Sector Bond,0
+609,FFHL,Fuwei Films Hldg Co Ltdf,Equity,Materials,0
+610,FFIV,F5 Networks Inc,Equity,Information Technology,0
+611,FHCC,First Health Group Corp,Equity,Financials,0
+612,FHN,First Horizon National Corp,Equity,Financials,0
+613,FII,Federated Invs Pa,Equity,Financials,0
+614,FINDUM,Financials Dummy,Equity,Financials,0
+615,FIS,Fidelity Natl Info Svcs,Equity,Information Technology,0
+616,FITB,Fifth Third Bancorp,Equity,Financials,0
+617,FJ,Fort James Corporation,Equity,Materials,0
+618,FL,Foot Locker Inc,Equity,Consumer Discretionary,0
+619,FLA,Florida East Coast Ind,Equity,Industrials,0
+620,FLC,R & B Falcon Corporation,Equity,Energy,0
+621,FLDR,Flanders Corp,Equity,Industrials,0
+622,FLEX,Flextronics Intl Ltd,Equity,Information Technology,Electronic Components
+623,FLM,Fleming Companies Inc,Equity,Consumer Staples,0
+624,FLR,Fluor Corp,Equity,Industrials,0
+625,FLS,Flowserve,Equity,Industrials,0
+626,FLT,"FleetCor Technologies, Inc.",Equity,0,0
+627,FLWS,1 800 Flowers.Com,Equity,Consumer Discretionary,0
+628,FMB,First Trust Municipal Bond ETF,Equity,Municipal Bonds,0
+629,FMCKJ,Federal Home Loan Mortgage Pref,Equity,Multi-Sector Bond,0
+630,FMER,Firstmerit Corp,Equity,Financials,0
+631,FNB,F N B Corp,Equity,Financials,0
+632,FNDF,Schwab Fundamental Intl Lg Co ETF,Equity,International,0
+633,FNF,Fidelity Natl Finl,Equity,Financials,0
+634,FNFG,First Niagara Fin,Equity,Financials,0
+635,FNM,Fannie Mae,Equity,Financials,0
+636,FO,Fortune Brands,Equity,Consumer Discretionary,0
+637,FOX,TWENTY-FIRST CENTURY FOX - B,Equity,Communications,0
+638,FOXA,Fox Corp,Equity,Communications,0
+639,FPE,FIRST TRUST PREFERRED SECURITIES AND INCOME ETF,Equity,Preferred Stock,0
+640,FPL,F P L GROUP INC.,Equity,Utilities,0
+641,FPO,First Potomac Realty Trust,Equity,Real Estate,0
+642,FR,First Industrial Rlty Tr,Equity,Financials,0
+643,FRA,State of Frankilin,Equity,Financials,0
+644,FRC,First Republic Bank,Equity,Financials,Regional Banks
+645,FRE,Freddie Mac Voting Shs,Equity,Financials,0
+646,FRF,Fortegra Financial Corp,Equity,Financials,0
+647,FRFHF,Fairfax Financial Hl,Equity,Financials,0
+648,FRP,Fairpoint Commun Inc,Equity,Communications,0
+649,FRST,Primis Financial Corp,Equity,0,0
+650,FRT,Federal Realty Investment Trust,Equity,Real Estate,Real Estate Investment Trusts
+651,FSV,Firstservice Corp,Equity,Real Estate,0
+652,FT,Franklin Univ Tr S B I,Equity,Large Blend,0
+653,FTA,First Tr Lrg Cp Alphadex,Equity,Large Blend,0
+654,FTB+B,Fifth Third Cap,Equity,Preferred Stock,0
+655,FTB+C,Fifth Third Cap,Equity,Preferred Stock,0
+656,FTCS,First Trust Capital Strength ETF,Equity,Large Blend,0
+657,FTR,Frontier Communications,Equity,Communications,0
+658,FTRCQ,Frontier Communications Corp Class B,Equity,0,0
+659,FTU,First Union Corp,Equity,Financials,0
+660,FTV,Fortive Corp,Equity,Industrials,Electronic Equipment/Instruments
+661,FTVW,Fortive Corp,Equity,Industrials,0
+662,FUN,Cedar Fair LP,Equity,Consumer Discretionary,0
+663,FURX,Furiex Pharma Inc,Equity,Health Care,0
+664,FV,First Trust Dorsey Wright Focus 5 ETF,Equity,Mid Cap Blend,0
+665,FVE,Five Star Quality Care,Equity,Health Care,0
+666,FWRD,"Forward Air, Inc.",Equity,0,0
+667,FXD,First Tr Cons Dscrtnry,Equity,Consumer Discretionary,0
+668,FXG,First Tr Consumr Stapls,Equity,Consumer Staples,0
+669,FXI,iShares China Large-Cap,Equity,International,0
+670,FXN,First TRUST Energy,Equity,Energy,0
+671,FXU,First TRUST Utilities,Equity,Utilities,0
+672,G,Gillette,Equity,Consumer Staples,0
+673,G6264V136,MONGOLIAN MINING ORD,Equity,0,0
+674,G9460G119,VALARIS EQY WARRANT,Equity,0,0
+675,GAM,Gen'l Amer. Invest            ,Equity,Large Blend,0
+676,GAS,AGL Res Inc.,Equity,Utilities,0
+677,GCI,Gannett Co Inc Del,Equity,Consumer Discretionary,0
+678,GD,General Dynamics Corp,Equity,Industrials,0
+679,GDRX,Goodrx Holdings,Equity,Health Care,Internet Software/Services
+680,GDT,Guidant Corp,Equity,Health Care,0
+681,GDX,Market Vectors Gold Miners ETF,Equity,Natural Resources,0
+682,GDXJ,Market Vectors Junior Gold Miners,Equity,Natural Resources,0
+683,GE,General Electric Co,Equity,Industrials,0
+684,GEJ,General Electric,Equity,Preferred Stock,0
+685,GEN,Genon Energy,Equity,Utilities,0
+686,GENZ,Genzyme Corp Genl,Equity,Health Care,0
+687,GFG,Guaranty Finl Group Inc,Equity,Financials,0
+688,GG,Goldcorp Inc New,Equity,Materials,0
+689,GGG,Graco Incorporated,Equity,Industrials,0
+690,GGN,"GAMCO Global Gold, Natural Resources",Equity,Natural Resources,0
+691,GGP,General Growth Properties,Equity,Financials,0
+692,GHDX,Genomic Health,Equity,Health Care,0
+693,GHL,Greenhill & Co Inc,Equity,Financials,0
+694,GHY,Prudential Global Short Duration High Yield Bond,Equity,Corporate Bonds,0
+695,GILD,Gilead Sciences Inc.,Equity,Health Care,Biotechnology
+696,GIM,Templeton Global Income,Equity,0,0
+697,GIS,General Mills Inc,Equity,Consumer Staples,0
+698,GJAZ,Strats Tr Bellsouth,Equity,Preferred Stock,0
+699,GJG,Strats Tw Inc,Equity,0,0
+700,GLD,Spdr Gold TRUST - ETF,Equity,Natural Resources,0
+701,GLD1,Spdr Gold TRUST - ETF,Equity,Natural Resources,0
+702,GLD2,Spdr Gold TRUST - ETF,Equity,Natural Resources,0
+703,GLD4,Spdr Gold TRUST - ETF,Equity,Natural Resources,0
+704,GLH,Gallaher Grp Spon ADR,Equity,Consumer Staples,0
+705,GLPI,Gaming & Leisure Ppt,Equity,Real Estate,0
+706,GLW,Corning Inc,Equity,Information Technology,Electronic Components
+707,GLX,Glaxo Hldgs,Equity,0,0
+708,GM,General Motors,Equity,Consumer Discretionary,0
+709,GME,GameStop Corp.,Equity,Consumer Discretionary,Electronics/Appliance Stores
+710,GMI+,Gemini II Income Shares,Equity,0,0
+711,GMWB,General Motors Co 19 Wts,Equity,Industrials,0
+712,GMWSA,Generaal Motors Warrants exp 7/10/2016  $10.00,Equity,Consumer Discretionary,0
+713,GMWSB,Genera Motors Warrants - 7/10/2019  $18.33,Equity,Consumer Discretionary,0
+714,GNMK,GenMark Diagnostics Inc,Equity,Information Technology,0
+715,GNTX,Gentex Corp,Equity,Consumer Discretionary,0
+716,GNW,Genworth Financial,Equity,Financials,0
+717,GOOG,Alphabet Inc Class C (non voting),Equity,Communications,Internet Software/Services
+718,GOOGL,Alphabet Inc Class A Shares,Equity,Communications,Internet Software/Services
+719,GORO,Gold Resource Corp,Equity,Materials,Precious Metals
+720,GOV,Government Properties Income Trust,Equity,Financials,0
+721,GP,Georgia Pacific Corp,Equity,Materials,0
+722,GPC,Genuine Parts Co,Equity,Consumer Discretionary,0
+723,GPE V,Georgia Pwr Cap 03/31/2037 7.75%,Equity,0,0
+724,GPS,Gap Inc,Equity,Consumer Discretionary,0
+725,GPTRD,Grande Portage Resources Ltd,Equity,0,0
+726,GPTRF,Grande Portage Resources Ltd,Equity,Natural Resources,0
+727,GPU,General Public Utilities,Equity,Utilities,0
+728,GPW,Georgia Power Co,Equity,0,0
+729,GRA,Grace W R & Co,Equity,Materials,0
+730,GRAYCO,Gray Co.,Equity,Private Equity,0
+731,GRMN,Garmin Ltd,Equity,Consumer Discretionary,0
+732,GRPN,Groupon Inc Class A,Equity,Consumer Discretionary,0
+733,GRWG,GrowGeneration Corp,Equity,Consumer Discretionary,Wholesale Distributors
+734,GS,Goldman Sachs Group Inc,Equity,Financials,0
+735,GSF,Globalsantafe Corp,Equity,Energy,0
+736,GSIC,G S I Commerce Inc,Equity,Information Technology,0
+737,GSK,Glaxosmithkline Plc Adrf,Equity,Health Care,Pharmaceuticals: Major
+738,GT,Goodyear Tire and Rubber,Equity,Consumer Discretionary,0
+739,GTBIF,Green Thumb Industries Inc,Equity,0,0
+740,GTE,GTE Corp,Equity,Communications,0
+741,GTW,Gateway Inc,Equity,Information Technology,0
+742,GTX,Garrett Motion Inc,Equity,Consumer Discretionary,0
+743,GWR,Genesee & Wyoming,Equity,Industrials,0
+744,GXP,Great Plains Energy Inc,Equity,Utilities,0
+745,GZBX,Genzyme Corp Biosurgery,Equity,Health Care,0
+746,HAE,Haemonics Corp,Equity,Health Care,0
+747,HAIN,Hain Celestial Group,Equity,Consumer Staples,0
+748,HAL,Halliburton Co Hldg Co,Equity,Energy,0
+749,HALO,Halozyme Therapeutic,Equity,Health Care,0
+750,HAN,Hanson,Equity,Materials,0
+751,HBI,Hanesbrands Inc,Equity,Consumer Discretionary,0
+752,HC,Hanover Compressor Co,Equity,Energy,0
+753,HCBK,Hudson City Bancorp,Equity,Financials,0
+754,HCC,H C C Insurance Holdings,Equity,Financials,0
+755,HCDUM,Health Care Dummy,Equity,Health Care,0
+756,HCI,HCI Group Inc,Equity,Financials,0
+757,HCN,Welltower,Equity,Real Estate,0
+758,HCN+F,"Health Care REIT Inc., 7 5/8% Series F Cumul Redee",Equity,Preferred Stock,0
+759,HCP,H C P Inc,Equity,Financials,0
+760,HCR,Manor Care Inc,Equity,Health Care,0
+761,HCT,Amer Rlty Cap Hc Tr,Equity,Financials,0
+762,HD,Home Depot Inc,Equity,Consumer Discretionary,Home Improvement Chains
+763,HDB,Hdfc Bank Limited Adr,Equity,Financials,0
+764,HDI,Harley Davidson,Equity,Consumer Discretionary,0
+765,HDMV,First Trust Hrzn MgdVolatil Dev Intl ETF,Equity,0,0
+766,HE,Hawaiian Elec Industries,Equity,Utilities,0
+767,HES,Hess Corporation,Equity,Energy,0
+768,HFS,H F S Incorporated,Equity,Consumer Discretionary,0
+769,HGSI,Human Genome Sciences,Equity,Health Care,0
+770,HGT,Hugoton Royalty Tr Ubi,Equity,Energy,0
+771,HGV,Hilton Grand Vacatio,Equity,Consumer Discretionary,0
+772,HHGP,Hudson Highland Group,Equity,Industrials,0
+773,HHS,Harte-Hanks Inc.,Equity,Consumer Discretionary,0
+774,HI,Household International,Equity,0,0
+775,HIG,Hartford Finl Svcs Grp,Equity,Financials,0
+776,HII,Huntington Ingalls Inds,Equity,Industrials,Aerospace & Defense
+777,HIW,Highwood Properties Inc,Equity,Financials,0
+778,HKT,Cable & Wireless HKT Ltd.,Equity,Communications,0
+779,HLAS,Hartford Life Annuity,Equity,0,0
+780,HLI,Houlihan Lokey Inc,Equity,Financials,0
+781,HLT,Hilton Hotels Corp,Equity,Consumer Discretionary,0
+782,HMA,Health Mgmt Assoc Cl A,Equity,Health Care,0
+783,HMC,Honda Motor Co Ltd Adr,Equity,Consumer Discretionary,0
+784,HMT,Host Marriott Corp Reit,Equity,Financials,0
+785,HMY,Heilig-Meyers Co,Equity,0,0
+786,HNZ,Heinz,Equity,Consumer Staples,0
+787,HOG,Harley Davidson,Equity,Consumer Discretionary,0
+788,HOLX,Hologic Inc,Equity,Health Care,0
+789,HON,Honeywell International,Equity,Industrials,Industrial Conglomerates
+790,HOT,Starwood Htls & Rsts New,Equity,Consumer Discretionary,0
+791,HOU,Houston Industries,Equity,Utilities,0
+792,HPE,Hewlett Packard Ente,Equity,Information Technology,0
+793,HPQ,Hewlett-Packard Co,Equity,Information Technology,0
+794,HPS,John Hancock Preferred I,Equity,Preferred Stock,0
+795,HPT,Hospitality Property Trust,Equity,Financials,0
+796,HR,Healthcare Realty Trust Inc,Equity,Financials,0
+797,HRC,Healthsouth Corp,Equity,Health Care,0
+798,HRI,Herc Hldgs Inc,Equity,Financials,0
+799,HRL,Hormel Foods Corp,Equity,Consumer Staples,0
+800,HRS,Harris Corporation,Equity,Information Technology,0
+801,HSH,Hillshire Brands Company,Equity,Consumer Staples,0
+802,HSIC,Schein Henry Inc,Equity,Health Care,0
+803,HSNI,HSN,Equity,Consumer Discretionary,0
+804,HSP,Hospira,Equity,Health Care,0
+805,HST,Host Hotels & Resorts Inc,Equity,Real Estate,0
+806,HSY,The Hershey Co,Equity,Consumer Staples,Food: Specialty/Candy
+807,HTBX,Heat Biologics Inc,Equity,0,0
+808,HTRN,Healthtronics Inc,Equity,Health Care,0
+809,HTT,Hyperion 1999 Term Tr,Equity,0,0
+810,HTZ,Hertz Global Hldgs Inc,Equity,Industrials,0
+811,HTZGQ,Hertz Rental Car Holding Co Inc,Equity,0,0
+812,HUN,Huntsman,Equity,Materials,0
+813,HUSV,First Trust Hrzn MgdVolatil Domestic ETF,Equity,0,0
+814,HWCC,Houston Wire & Cable Co,Equity,Industrials,0
+815,HYFXF,Hyflux Ltd Ord,Equity,Utilities,0
+816,HYG,Ishares $High Yield Bond Fund,Equity,Corporate Bonds,0
+817,HYH,Halyard Health Inc,Equity,Health Care,0
+818,HYLB,Xtrackers USD High Yield Corp Bd ETF,Equity,High Yield Bonds,0
+819,HYS,PIMCO 0-5 Year High Yield Corp Bd ETF,Equity,High Yield Bonds,0
+820,IACI,Interactive Corp,Equity,Information Technology,0
+821,IAR,Idearc Inc,Equity,Communications,0
+822,IAU,iShares Comex Gold,Equity,Natural Resources,0
+823,IBB,iShares Nasdaq Biotechnology,Equity,Health Care,0
+824,IBKC,IberiaBank Corp,Equity,Financials,0
+825,IBM,Int'l Business Machines,Equity,Information Technology,0
+826,IBN,Icici Bank Ltd Adr,Equity,Financials,0
+827,ICE,Intercontinental Exchange Inc,Equity,Financials,0
+828,ICLR,Icon Plc,Equity,Health Care,0
+829,ICOS,I C O S Corp,Equity,Health Care,0
+830,IDCC,Interdigital Inc,Equity,Information Technology,0
+831,IDPH,I D E C Pharmaceuticals,Equity,Health Care,0
+832,IDV,iShares International Select ETF,Equity,International,0
+833,IEF,Ishares Tr Barclays Bond,Equity,0,0
+834,IEFA,Ishares Core Msci Eafe,Equity,International,0
+835,IEMG,iShares Core MSCI Emerging Markets ETF,Equity,International,0
+836,IFF,International Flavors & Fragrances Inc,Equity,Consumer Discretionary,0
+837,IFV,First Tr Exch Traded Fd,Equity,International,0
+838,IGE,Ishares S&P North Am Fd,Equity,0,0
+839,IGI,Imagistics International,Equity,Information Technology,0
+840,IGSB,Ishares Tr Sh Tr Crport Etf,Equity,0,0
+841,IGT,Intl Game Technology,Equity,Consumer Discretionary,0
+842,IHD,ING Emerging Markets High Dividend,Equity,International,0
+843,IILG,Intervalue Leisure Group,Equity,Consumer Discretionary,0
+844,IIPR,Innovative Industrial Properties Inc,Equity,Real Estate,Real Estate Investment Trusts
+845,IJH,Ishares Core S&P Mid Cap,Equity,Mid Cap Blend,0
+846,IJR,Ishares Tr S&P Smallcap,Equity,Small Blend,0
+847,ILMN,Illumina Inc,Equity,Health Care,0
+848,IMCL,Imclone Systems Inc,Equity,Health Care,0
+849,IMDS,Imaging Diagnostic Sys,Equity,Health Care,0
+850,IMGN,Immunogen Inc,Equity,Health Care,0
+851,IMN,Imation Corp,Equity,Information Technology,0
+852,IMNX,Immunex Corp New,Equity,Health Care,0
+853,IMTBY,Imperial Tob Gp Plc Adrf,Equity,Consumer Discretionary,0
+854,INDDUM,Industrial Dummy,Equity,Industrials,0
+855,INDL,Direxion Daily MSCI India Bull 3x ETF,Equity,International,0
+856,INFA,Informatica Corp,Equity,Information Technology,0
+857,INFY,Infosys Ltd Spon Adr,Equity,Information Technology,0
+858,INO,Inovio Pharmaceuticals Inc,Equity,Health Care,0
+859,INSP,Infospace Inc New,Equity,Information Technology,0
+860,INTC,Intel Corp,Equity,Information Technology,0
+861,INTDUM,International Dummy,Equity,International,0
+862,INTU,Intuit Inc,Equity,Information Technology,Packaged Software
+863,INVN,Invensense Inc,Equity,Information Technology,0
+864,INVVY,Indivior Plc Adr,Equity,Health Care,0
+865,INXX,Egshares Etf,Equity,Industrials,0
+866,INZ,"ING Groep N.V., 7.20% ING Perpetual Debt Securitie",Equity,Preferred Stock,0
+867,IP,International Paper,Equity,Materials,0
+868,IPG,Interpublic Group Of Cos,Equity,Communications,0
+869,IPGP,IPG Photonics Corp,Equity,Information Technology,0
+870,IR,Ingersoll Rand Cl A Newf,Equity,Industrials,0
+871,IRBT,Irobot Corp,Equity,Consumer Discretionary,0
+872,ISIL,Intersil Corp Cl A,Equity,Information Technology,0
+873,ISRG,Intuitive Surgical New,Equity,Health Care,Medical Specialties
+874,ITB,Ishares US Home,Equity,Consumer Discretionary,0
+875,ITDUM,Information Tech Dummy,Equity,Information Technology,0
+876,ITMN,Intermune Inc,Equity,Health Care,0
+877,ITRI,Itron Inc New,Equity,Information Technology,0
+878,ITT,I T T Industries Inc,Equity,Industrials,0
+879,ITW,Illinois Tool Works,Equity,Industrials,0
+880,IVGN,Invitrogen Corp,Equity,Health Care,0
+881,IVOL,Quadratic Intrst Rt Vol & Infl H ETF,Equity,Volatility,0
+882,IVVFF,Ivory Energy Inc,Equity,Energy,0
+883,IVZ,Invesco Ltd,Equity,Financials,0
+884,IWD,Ishares Russell 1000 Val,Equity,0,0
+885,IWF,Ishares Tr Russell,Equity,Small Blend,0
+886,IWS,Ishares Russell Midcap,Equity,Mid Cap Blend,0
+887,IXUS,iShares Core MSCI Total Intl Stk ETF,Equity,International,0
+888,JAVA,Sun Microsystems Inc New,Equity,Information Technology,0
+889,JBL,Jabil Circuit Inc,Equity,Information Technology,0
+890,JBSS,Sanfilippo John B,Equity,Consumer Staples,0
+891,JCI,Johnson Controls,Equity,Consumer Discretionary,0
+892,JCP,Penney J C Co Inc,Equity,Consumer Discretionary,0
+893,JDEC,Edwards J D & Co,Equity,Information Technology,0
+894,JDSU,Jds Uniphase Corporation,Equity,Information Technology,0
+895,JEC,Jacobs Engineering Group,Equity,Industrials,0
+896,JELD,Jeld Wen Holding Inc,Equity,Consumer Discretionary,0
+897,JGH,Nuveen Glb High Inc Fd,Equity,Financials,0
+898,JGT,Nuveen Diversified Currency,Equity,0,0
+899,JLS,Nuveen MTG Opportunity Term Fund,Equity,Corporate Bonds,0
+900,JNJ,Johnson & Johnson,Equity,Health Care,Pharmaceuticals: Major
+901,JNK,SPDR® Blmbg Barclays High Yield Bd ETF,Equity,Multi-Sector Bond,0
+902,JNPR,Juniper Networks Inc,Equity,Information Technology,0
+903,JNS,Janus Capital Group Inc,Equity,Financials,0
+904,JNY,Jones Apparel Group,Equity,Consumer Discretionary,0
+905,JOE,St Joe Company,Equity,Financials,0
+906,JP,Jefferson Pilot,Equity,Financials,0
+907,JPC,Nuveen PFD Income Oppty,Equity,Preferred Stock,0
+908,JPM,JP Morgan Chase & Co,Equity,Financials,Major Banks
+909,JPM+X,J P Morgan Chase Preferred,Equity,Preferred Stock,0
+910,JPMWS,Jpmorgan Chase    18 Wts,Equity,Financials,0
+911,JWN,Nordstrom Inc,Equity,Consumer Discretionary,0
+912,JZJ,"Lehman ABS Corp Bkd Trust Certs 2003-18, 7.125% Va",Equity,Preferred Stock,0
+913,K,Kellogg's,Equity,Consumer Staples,0
+914,KAR,Kar Auction Services,Equity,Industrials,0
+915,KCO,"BellSouth Cap Fund Deb,",Equity,Corporate Bonds,0
+916,KDN,Kaydon Corporation,Equity,Industrials,0
+917,KEM,Kemet Corporation,Equity,Information Technology,0
+918,KEY,Keycorp Inc New,Equity,Financials,Major Banks
+919,KFT,"Kraft Foods, Inc.",Equity,Consumer Staples,0
+920,KG,King Pharmaceuticals Inc,Equity,Health Care,0
+921,KHC,Kraft Heinz Co,Equity,Consumer Staples,0
+922,KLAC,K L A Tencor Corp,Equity,Information Technology,0
+923,KLLM,KLLM Transport Services,Equity,0,0
+924,KM,K-Mart Corp,Equity,Consumer Discretionary,0
+925,KMB,Kimberly-Clark Corp,Equity,Consumer Staples,Household/Personal Care
+926,KMET,KEMET,Equity,Industrials,0
+927,KMI,Kinder Morgan Inc,Equity,Energy,0
+928,KMIWS,Kinder Morgan Inc  17wts,Equity,0,0
+929,KMP,Kinder Morgan Energy Partners MLP,Equity,Energy,0
+930,KMR,Kinder Morgan Mgmt Llc,Equity,Energy,0
+931,KMX,Carmax,Equity,Consumer Discretionary,0
+932,KN,Knowles Corp,Equity,Information Technology,0
+933,KNBT,Knbt Bancorp,Equity,Financials,0
+934,KNSL,Kinsale Cap Group Inc Com,Equity,Financials,Multi-Line Insurance
+935,KO,Coca Cola Co.,Equity,Consumer Staples,Beverages: Non-Alcoholic
+936,KODK,Eastman Kodak Co,Equity,Consumer Discretionary,0
+937,KODKW,Eastman Kodak Co   18wts,Equity,Consumer Discretionary,0
+938,KODKWA,Eastman Kodak Co   18wts,Equity,Consumer Discretionary,0
+939,KR,Kroger Company,Equity,Consumer Staples,0
+940,KRB,M B N A Corporation,Equity,Financials,0
+941,KRC,Kilroy Realty Corp,Equity,Financials,0
+942,KRE,Spdr Kbw Regional Bking,Equity,Financials,0
+943,KRFT,Kraft Foods Group,Equity,Consumer Staples,0
+944,KRT,Kramont Realty TRUST,Equity,Financials,0
+945,KSE,Keyspan Corporation,Equity,Utilities,0
+946,KSF,Quaker State Corp,Equity,0,0
+947,KSHB,KushCo Holdings Inc,Equity,0,0
+948,KSS,Kohls Corp,Equity,Consumer Discretionary,0
+949,KSU,Kansas City Southern,Equity,Industrials,0
+950,KYN,Kayne Anderson Mlp Invt,Equity,Energy,0
+951,L,Loews Corporation,Equity,Financials,Property/Casualty Insurance
+952,LAMR,Lamar Advertising,Equity,Real Estate,0
+953,LAVA,Magma Design Automation,Equity,Information Technology,0
+954,LBI,Liberte Investors Inc,Equity,Financials,0
+955,LBRDK,Liberty Broadband Co,Equity,Consumer Discretionary,0
+956,LCC,U S Airways Group Inc,Equity,Industrials,0
+957,LDK,Ldk Solar Co Ltd Adr,Equity,Information Technology,0
+958,LDOS,Leidos Holdings Inc,Equity,Industrials,0
+959,LEE,Lee Enterprises Inc,Equity,Consumer Discretionary,0
+960,LEG,Leggett & Platt Inc,Equity,Consumer Discretionary,0
+961,LEH+F,Lehman Bros,Equity,Preferred Stock,0
+962,LEN,Lennar Corp,Equity,Consumer Discretionary,0
+963,LFG,Landamerica Finl Grp Inc,Equity,Financials,0
+964,LFUS,Littelfuse Inc,Equity,Information Technology,0
+965,LGE,L G & E Energy Corp,Equity,Utilities,0
+966,LGI,Lazard Global Total Return,Equity,International,0
+967,LGNDE,Ligand Pharm Inc Cl B,Equity,Health Care,0
+968,LHO,Lasalle Hotel Pptys,Equity,Financials,0
+969,LHX,L3Harris Technologies Inc,Equity,Industrials,0
+970,LIN,Linde plc,Equity,Industrials,Chemicals: Specialty
+971,LINE,Linn Energy,Equity,Energy,0
+972,LIZ,Liz Claiborne,Equity,Consumer Discretionary,0
+973,LK,Luckin Coffee Inc,Equity,Consumer Discretionary,0
+974,LKQ,Lkq Corp,Equity,Consumer Discretionary,0
+975,LLL,L-3 Communications Hldgs,Equity,Industrials,0
+976,LLTC,Linear Technology Corp,Equity,Information Technology,0
+977,LLY,Lilly Eli & Co,Equity,Health Care,0
+978,LM,Legg Mason Inc,Equity,Financials,0
+979,LMBS,FIRST TRUST LOW DURATION OPPORTUNITIES ETF,Equity,Multi-Sector Bond,0
+980,LMNX,Luminex Corp Del,Equity,Health Care,0
+981,LMT,Lockheed Martin Corp,Equity,Industrials,Aerospace & Defense
+982,LNC,Lincoln National Corp,Equity,Financials,Life/Health Insurance
+983,LNCO,Linnco Llc,Equity,Energy,0
+984,LNCR,Lincare Holdings,Equity,Health Care,0
+985,LNT,Alliant Energy Corp,Equity,Utilities,0
+986,LOTZ,Carlotz,Equity,Consumer Discretionary,Specialty Stores
+987,LOW,Lowes Cos Inc,Equity,Consumer Discretionary,Home Improvement Chains
+988,LRCX,Lam Research Corporation,Equity,Information Technology,0
+989,LRY,Liberty Property TRUST,Equity,Financials,0
+990,LSI,Lsi Logic Corp,Equity,Information Technology,0
+991,LSXMA,Liberty Media Corp,Equity,Consumer Discretionary,0
+992,LSXMK,Liberty Media Corp,Equity,Consumer Discretionary,0
+993,LTD,Limited Brands Inc,Equity,Consumer Discretionary,0
+994,LU,Lucent Technologies Inc,Equity,Information Technology,0
+995,LUC,"Luken, Inc",Equity,0,0
+996,LULU,Lululemon Athletica Inc,Equity,Consumer Discretionary,Apparel/Footwear Retail
+997,LUTHW,Lucent Techs Inc  07 Wts,Equity,Information Technology,0
+998,LUV,Southwest Airlines Co,Equity,Industrials,Airlines
+999,LVS,Las Vegas Sands Corp,Equity,Consumer Discretionary,0
+1000,LWSN,Lawson Software Inc New,Equity,Information Technology,0
+1001,LXK,Lexmark Intl Grp Inc Cla,Equity,Information Technology,0
+1002,LYB,LyondellBasell Industries N,Equity,Materials,0
+1003,LYG,Lloyds TSB Group PLC,Equity,Financials,0
+1004,LYO,Lyondell Chemical Co,Equity,Materials,0
+1005,LYV,Live Nation Entmt,Equity,Consumer Discretionary,0
+1006,M,"Macy's, Inc.",Equity,Consumer Discretionary,0
+1007,MA,Mastercard Inc,Equity,Information Technology,Finance/Rental/Leasing
+1008,MAA,Mid Amer Apt Cmntys Inc,Equity,Financials,0
+1009,MAC,Macerich Company,Equity,Financials,0
+1010,MACR,Macromedia Inc,Equity,Information Technology,0
+1011,MAN,Manpower Inc,Equity,Industrials,0
+1012,MANT,Mantech Intl Corp. Cl A,Equity,Information Technology,0
+1013,MAR,Marriott Intl Inc Cl A,Equity,Consumer Discretionary,Hotels/Resorts/Cruiselines
+1014,MAS,Masco Corp,Equity,Industrials,0
+1015,MAT,Mattel Incorporated,Equity,Consumer Discretionary,0
+1016,MATX,Matrix Pharmaceutical,Equity,Health Care,0
+1017,MAXI,Maxicare Hlth Plans Nxxx,Equity,Health Care,0
+1018,MBB,Ishares MBS,Equity,0,0
+1019,MBI,M B I A Inc,Equity,Financials,0
+1020,MC,Moelis & Co,Equity,Financials,0
+1021,MCC,Medley Capital Corp,Equity,Financials,0
+1022,MCD,McDonalds Corp,Equity,Consumer Discretionary,Restaurants
+1023,MCDTA,Mcdata Corporation Cl A,Equity,Information Technology,0
+1024,MCH,Millennium Chemicals Inc,Equity,Materials,0
+1025,MCHP,Microchip Technology,Equity,Information Technology,Semiconductors
+1026,MCIT,MCI Group,Equity,Communications,0
+1027,MCK,Mckesson Corp,Equity,Health Care,Medical Distributors
+1028,MCO,Moodys Corp,Equity,Financials,0
+1029,MCR,Mfs Charter Income TRUST,Equity,Corporate Bonds,0
+1030,MCY,Mercury General Corp,Equity,Financials,0
+1031,MDC,M D C Holding Inc,Equity,Consumer Discretionary,0
+1032,MDCO,The Medicines Co,Equity,Health Care,0
+1033,MDIV,1st Tr Exch Traded Fd VI,Equity,Multi-Sector Bond,0
+1034,MDLZ,Mondelez Intl Inc,Equity,Consumer Staples,Food: Major Diversified
+1035,MDP,Meredith Corp,Equity,Consumer Discretionary,0
+1036,MDRX,Allscripts Healthcare,Equity,Health Care,0
+1037,MDT,Medtronic PLC,Equity,Health Care,Medical Specialties
+1038,MDTH,Medcath Corporation,Equity,Health Care,0
+1039,MDY,"MidCap SPDR Trust, Series 1",Equity,0,0
+1040,MDYG,SPDR® S&P 400 Mid Cap Growth ETF,Equity,Mid Cap Blend,0
+1041,MDYV,SPDR® S&P 400 Mid Cap Value ETF,Equity,Mid Cap Blend,0
+1042,MEDI,Medimmune Inc,Equity,Health Care,0
+1043,MEG,Media General,Equity,Consumer Discretionary,0
+1044,MEGF,Megafoods Stores Inc,Equity,0,0
+1045,MELI,MercadoLibre Inc,Equity,Information Technology,0
+1046,MER,Merrill Lynch & Co Inc,Equity,Financials,0
+1047,MER+C,Merrill Lynch Preferred,Equity,0,0
+1048,MER+I,Merrill Lynch,Equity,Preferred Stock,0
+1049,MET,Meftlife Inc,Equity,Financials,0
+1050,MET+A,Metlife Floater,Equity,Preferred Stock,0
+1051,METC,Ramaco Resources Inc,Equity,Materials,0
+1052,METLMS,Metlife Moderate Strategy Annuity,Equity,0,0
+1053,MFC,Manulife Financial Corpf,Equity,Financials,0
+1054,MFGLQ,Mf Global Hldgs Ltd,Equity,Financials,0
+1055,MFGP,Micro Focus Int,Equity,Information Technology,0
+1056,MGM,Mgm Mirage,Equity,Consumer Discretionary,0
+1057,MHFI,Mcgraw-Hill Fin,Equity,Financials,0
+1058,MHP,Mcgraw-Hill Cos,Equity,Consumer Discretionary,0
+1059,MHS,Medcohealth Solutions,Equity,Health Care,0
+1060,MI,Marshall & Ilsley Corp,Equity,Financials,0
+1061,MIDD,The Middleby Corp,Equity,Industrials,0
+1062,MINI,Mobile Mini Inc,Equity,Industrials,0
+1063,MIRKQ,Mirant Corporation,Equity,Utilities,0
+1064,MKC,Mc Cormick & Co Inc N-Vt,Equity,Consumer Staples,Food: Specialty/Candy
+1065,MKL,Markel Corp,Equity,Financials,Specialty Insurance
+1066,MLHR,Herman Miller Inc,Equity,Industrials,0
+1067,MLM,Martin Marietta Matr,Equity,Materials,0
+1068,MLPN,Credit Suisse Etn,Equity,Energy,0
+1069,MMA,Muni Mtg & Equity L L C,Equity,0,0
+1070,MMC,Marsh & McLennan Co Inc,Equity,Financials,0
+1071,MMD,Mainstay Definedterm Mn,Equity,Municipal Bonds,0
+1072,MMM,3M Co.,Equity,Industrials,0
+1073,MMP,Magellan Midstream Partners,Equity,Energy,0
+1074,MMR,McMoran Exploration,Equity,Energy,0
+1075,MMTM,Momentum Bus Appl Cl A,Equity,0,0
+1076,MNK,Mallinckrodt Pub,Equity,Health Care,0
+1077,MNR+B,Monmouth Real Estate PRD B,Equity,Preferred Stock,0
+1078,MNRB,Monmouth Real Estate Preferred,Equity,Preferred Stock,0
+1079,MO,Altria Group Inc,Equity,Consumer Staples,Tobacco
+1080,MOB,Mobil Corp,Equity,Industrials,0
+1081,MOGLF,Mongolian Mining Ord,Equity,Materials,0
+1082,MOGN,M G I Pharma Inc,Equity,Health Care,0
+1083,MOLX,Molex Incorporated,Equity,Information Technology,0
+1084,MOLXA,Molex Incorporated Cl A,Equity,Information Technology,0
+1085,MON,Monsanto Co New Del,Equity,Materials,0
+1086,MONIF,Monitise Plc Ord,Equity,Financials,0
+1087,MOO,Market Vector AgriBusiness - ETF,Equity,Materials,0
+1088,MORN,Morningstar Inc,Equity,Consumer Discretionary,0
+1089,MOS,The Mosaic Company,Equity,Materials,0
+1090,MOT,Motorola,Equity,Information Technology,0
+1091,MOVI,Movie Gallery Inc,Equity,Consumer Discretionary,0
+1092,MPC,Marathon Petetroleum,Equity,Energy,0
+1093,MRA,Meritor Automotive Inc,Equity,0,0
+1094,MRK,Merck & Co INC.,Equity,Health Care,Pharmaceuticals: Major
+1095,MRLN,Marlin Business Svcs Cp,Equity,Financials,0
+1096,MRNA,Moderna Inc,Equity,Health Care,0
+1097,MRO,Marathon Oil Corp,Equity,Energy,0
+1098,MRVL,Marvell Tech Group Ltd,Equity,Information Technology,0
+1099,MS,Morgan Stanley,Equity,Financials,Investment Banks/Brokers
+1100,MSFT,Microsoft Corp.,Equity,Information Technology,Packaged Software
+1101,MSG,Madison Square Garden,Equity,Consumer Discretionary,0
+1102,MSI,Motorola Solutions,Equity,Information Technology,0
+1103,MSJ,M S Cap TRUST Vi,Equity,Financials,0
+1104,MSM,Msc Indl Direct Inc Cl A,Equity,Industrials,0
+1105,MT,ArcelorMittal SA Luxembourg,Equity,Materials,0
+1106,MTB,M & T Bank Corporation,Equity,Financials,0
+1107,MTEL,Mobile Telecom Tech,Equity,0,0
+1108,MTLQQ,Motors Liquidation Company,Equity,Consumer Discretionary,0
+1109,MTST,Microtest Inc.,Equity,0,0
+1110,MTUM,Ishares Etf,Equity,Large Blend,0
+1111,MTW,Manitowoc Company Inc,Equity,Industrials,0
+1112,MU,Micron Technologies,Equity,Information Technology,0
+1113,MUB,Ishares Nationl Muni,Equity,Municipal Bonds,0
+1114,MUR,Murphy Oil Corp.,Equity,Energy,0
+1115,MUSA,Muphy USA Inc.,Equity,Consumer Staples,0
+1116,MV,Metavante Holding Co,Equity,Financials,0
+1117,MWA,Mueller Water Products,Equity,Industrials,0
+1118,MWG,Morgan Stnly Cap,Equity,0,0
+1119,MXI,Ishares S&P Global Matls,Equity,Materials,0
+1120,MXIM,Maxim Integrated Pro,Equity,Information Technology,0
+1121,MYL,Mylan Laboratories Inc,Equity,Health Care,0
+1122,N65990017,Nxp Semiconductors   Xxx,Equity,Information Technology,0
+1123,NADVF,Naturally Advncd Tech,Equity,Consumer Discretionary,0
+1124,NAI,Nicholas Applegate Intl,Equity,0,0
+1125,NAK,Northern Dyn Minerl Newf,Equity,Materials,0
+1126,NANO,Nanometrics,Equity,Information Technology,0
+1127,NATI,National Instruments,Equity,Information Technology,0
+1128,NB,Nations Bank,Equity,0,0
+1129,NBBC,NewBridge Bancorp,Equity,Financials,0
+1130,NBL,Noble Corporation,Equity,Energy,0
+1131,NBR,Nabors Industries,Equity,Energy,0
+1132,NCC,National City Corp,Equity,Financials,0
+1133,NCLH,Norwegian Cruise Lin,Equity,Consumer Discretionary,0
+1134,NCQ,Novacopper Inc,Equity,Natural Resources,0
+1135,NCR,N C R Corp New,Equity,Information Technology,0
+1136,NCTIE,N C T Group Inc,Equity,Information Technology,0
+1137,NE,Noble Corp,Equity,Energy,0
+1138,NEE,NextEra Energy Inc.,Equity,Utilities,Electric Utilities
+1139,NEM,Newmont Mining Corp,Equity,Materials,0
+1140,NET,No European Oil Rylty,Equity,Energy,0
+1141,NETE,Netegrity Inc,Equity,Information Technology,0
+1142,NEU,Newmarket Corporation,Equity,Materials,0
+1143,NFB,North Fork Bancorp Inc,Equity,Financials,0
+1144,NFG,National Fuel Gas Co,Equity,Utilities,0
+1145,NFLX,Netflix Inc,Equity,Communications,Cable/Satellite TV
+1146,NFX,Newfield Exploration Co,Equity,Energy,0
+1147,NG,Novagold Res Inc New,Equity,Natural Resources,0
+1148,NGEN,Nanogen Inc,Equity,Health Care,0
+1149,NGG,National Grid Plc Adr,Equity,Utilities,0
+1150,NHP,Nationwide Health Pptys,Equity,Financials,0
+1151,NI,NiSource Inc.,Equity,Utilities,0
+1152,NID,Nuveen Int. Municipal,Equity,Municipal Bonds,0
+1153,NIO,NIO INC ADS REPSTG CL A ORD SHS,Equity,0,0
+1154,NKE,Nike Inc,Equity,Consumer Discretionary,Apparel/Footwear
+1155,NLSN,Nielsen Holdings Plc Shs,Equity,Industrials,0
+1156,NLY,Annaly Cap Mgmt Inc,Equity,Financials,0
+1157,NMO,Nuveen Municipal Mkt Opp Fund,Equity,Municipal Bonds,0
+1158,NNN,National Retail Properties,Equity,Real Estate,Real Estate Investment Trusts
+1159,NOB,Norwest Bank,Equity,0,0
+1160,NOB+,Norwest Corp Depository,Equity,0,0
+1161,NOBL,Proshares S&P 500 Div,Equity,Large Blend,0
+1162,NOC,Northrop Grumman Corp,Equity,Industrials,0
+1163,NOK,Nokia Corp Spon Adr,Equity,Information Technology,Telecommunications Equipment
+1164,NOV,National Oilwell Varco,Equity,Energy,0
+1165,NOVL,Novell Inc,Equity,Information Technology,0
+1166,NP,Neenah Paper Inc,Equity,Consumer Staples,0
+1167,NPBC,National Penn Bancshares,Equity,Financials,0
+1168,NPO,Enpro Industries Inc,Equity,Industrials,0
+1169,NRF,Northstar Realty Fin Cp,Equity,Financials,0
+1170,NRG,Nrg Energy Inc New,Equity,Utilities,0
+1171,NRGY,Inergy Lp,Equity,Energy,0
+1172,NRIFD,NUVO RESEARCH INC,Equity,Health Care,0
+1173,NRIFF,Nuvo Research Inc,Equity,Health Care,0
+1174,NRTLQ,Nortel Networks Cp New,Equity,Communications,0
+1175,NRV.PE,New Richmond Ventures,Equity,Private Equity,0
+1176,NSC,Norfolk Southern Corp,Equity,Industrials,Railroads
+1177,NSOL,Network Solutions Inc,Equity,0,0
+1178,NSRGY,Nestle S A Reg B ADR,Equity,Consumer Staples,Food: Major Diversified
+1179,NST,Nstar,Equity,Utilities,0
+1180,NT,Nortel Networks Cp New,Equity,Information Technology,0
+1181,NTAP,Network Appliance Inc,Equity,Information Technology,0
+1182,NTDOY,Nintendo Co Ltd,Equity,Information Technology,0
+1183,NTGR,Netgear Inc,Equity,Information Technology,0
+1184,NTIOF,National Bank Of Canada,Equity,Financials,0
+1185,NTL,Nortel Inversora B Adr,Equity,0,0
+1186,NTLA,Intellia Therapeutics Inc,Equity,Health Care,0
+1187,NTR,Nutrien Ltd,Equity,Materials,0
+1188,NTRS,Northern Trust Corp,Equity,Financials,Regional Banks
+1189,NU,Northeast Utilities,Equity,Utilities,0
+1190,NUAN,Nuance Communication,Equity,Information Technology,0
+1191,NUE,Nucor Corp,Equity,Materials,0
+1192,NUGT,Direxion Shares New Etf,Equity,Natural Resources,0
+1193,NVAX,Novavax Inc,Equity,0,0
+1194,NVDA,Nvidia Corp,Equity,Information Technology,Semiconductors
+1195,NVLS,Novellus Systems Inc,Equity,Information Technology,0
+1196,NVMH,Nevada Manhattan Grp Inc,Equity,Materials,0
+1197,NVS,Novartis AG,Equity,Health Care,0
+1198,NVT,nVent Electric PLC,Equity,Industrials,0
+1199,NWL,Newell Brands Inc,Equity,Consumer Staples,0
+1200,NWS,News Corp Ltd Cl B,Equity,Communications,0
+1201,NWSA,NEWS CORP - CLASS A,Equity,Communications,0
+1202,NXL,New Plan Excel Rlty Tr,Equity,Financials,0
+1203,NXPI,NXP Semiconductors NV,Equity,Information Technology,0
+1204,NXST,Nexstar Media Group Inc,Equity,Communications,0
+1205,NXTL,Nextel Communications A,Equity,Communications,0
+1206,NYB+U,Ny Cmnty Cap Tr V,Equity,Preferred Stock,0
+1207,NYN,Nynex Corp,Equity,0,0
+1208,NYX,Nyse Euronext N V,Equity,Financials,0
+1209,NZT,Telecom New Zealand,Equity,Communications,0
+1210,O,Realty Income Corp,Equity,Financials,0
+1211,OC,OWENS CORNING,Equity,Industrials,0
+1212,OCCM,Occam Networks Inc,Equity,Communications,0
+1213,OCGT,OCG Technology,Equity,Information Technology,0
+1214,OEF,iShares S&P 100,Equity,0,0
+1215,OFC,Corp Office Pptys Sbi,Equity,Financials,0
+1216,OGS,ONE GAS INC,Equity,Utilities,0
+1217,OGZPY,Oao Gazprom Spon Adr,Equity,Energy,0
+1218,OHI,Omega Hlthcare Invs Inc,Equity,Financials,0
+1219,OKE,Oneok Inc New,Equity,Energy,0
+1220,OKTA,Okta Inc,Equity,Information Technology,Packaged Software
+1221,OMC,Omnicom Group Inc,Equity,Communications,0
+1222,OMI,Owens & Minor Holding Co,Equity,Health Care,Medical Distributors
+1223,ONE,Bank One Corp,Equity,Financials,0
+1224,ONEM,1Life Healthcare Ord,Equity,Health Care,Medical/Nursing Services
+1225,OPWR,Opower Inc,Equity,Information Technology,0
+1226,OPWVD,Openwave Systems Inc,Equity,Information Technology,0
+1227,ORBK,Orbotech Ltd,Equity,Industrials,0
+1228,ORCL,Oracle Corp.,Equity,Information Technology,0
+1229,ORX,Oryx Energy Co,Equity,0,0
+1230,OSK,Oshkosh Corp,Equity,Industrials,0
+1231,OSSI,Outback Steakhouse Inc,Equity,0,0
+1232,OTCM,Royce Micro-Cap Trust Inc,Equity,0,0
+1233,OTIS,OTIS Worldwide Corp-Wi,Equity,Industrials,0
+1234,OTTR,Otter Tail Power,Equity,Utilities,0
+1235,OV,One Valley Bancorp Inc,Equity,Financials,0
+1236,OXY,Occidental Pete Corp Del,Equity,Energy,0
+1237,OXY.WS,OCCIDENTAL PETE CORP WT EXP,Equity,0,0
+1238,OZRK,Bank of the Ozarks Inc,Equity,Financials,0
+1239,P,Phillips Petroleum Co.,Equity,Energy,0
+1240,PAC,Pacific Telesis Group,Equity,0,0
+1241,PACW,Pac-West Telecomm Inc,Equity,Communications,0
+1242,PAG,Penske Automotive Grp Inc,Equity,Consumer Discretionary,0
+1243,PANW,Palo Alto Networks Inc,Equity,Information Technology,Computer Communications
+1244,PAX,Paxson Communications,Equity,Consumer Discretionary,0
+1245,PAYX,Paychex Inc,Equity,Information Technology,0
+1246,PBCT,Peoples United Finl Inc,Equity,Financials,0
+1247,PBF,Pbf Energy Inc,Equity,Energy,0
+1248,PBG,Pepsi Bottling Group Inc,Equity,Consumer Staples,0
+1249,PBI,Pitney Bowes Inc,Equity,Industrials,0
+1250,PBR,Petroleo Brasileiro ADR,Equity,Energy,0
+1251,PBY,"Pep Boys-Manny,Moe&Jack",Equity,Consumer Discretionary,0
+1252,PCAR,Paccar Inc,Equity,Industrials,0
+1253,PCG,P G & E Corp,Equity,Utilities,0
+1254,PCL,Plum Creek Timber Co REIT,Equity,Financials,0
+1255,PCLN,Priceline Group,Equity,Consumer Discretionary,0
+1256,PCP,Precision Castparts Corp,Equity,Industrials,0
+1257,PCS,Sprint Pcs Group,Equity,Communications,0
+1258,PCU,Southern Copper Corp,Equity,Materials,0
+1259,PCX,Patriot Coal Corp,Equity,Energy,0
+1260,PCZ,Petro Canada Var Vtg,Equity,Energy,0
+1261,PDM,Piedmont Office Rlty Tr,Equity,Financials,0
+1262,PDS,Precision Drilling Tr,Equity,Energy,0
+1263,PE,Peco Energy,Equity,Utilities,0
+1264,PEG,Pub Svc Enterprise Group,Equity,Utilities,Electric Utilities
+1265,PEP,Pepsico Inc,Equity,Consumer Staples,Beverages: Non-Alcoholic
+1266,PETM,Petsmart Inc,Equity,Consumer Discretionary,0
+1267,PETS,Petmed Express Inc,Equity,Consumer Discretionary,0
+1268,PFE,Pfizer Inc,Equity,Health Care,Pharmaceuticals: Major
+1269,PFF,IShares S&P Preferred Index Fund,Equity,Preferred Stock,0
+1270,PFG,Principal Financial Grp,Equity,Financials,Investment Managers
+1271,PFGC,Performance Food Grp Co,Equity,Consumer Staples,0
+1272,PG,Proctor & Gamble Co,Equity,Consumer Staples,Household/Personal Care
+1273,PGF,Powershs Exch Trad Fd Tr,Equity,Financials,0
+1274,PGL,Peoples Energy Corp,Equity,Utilities,0
+1275,PGN,Paragon Offshore PLC,Equity,Energy,0
+1276,PGX,Powershares Preferred,Equity,Preferred Stock,0
+1277,PH,Parker Hannifin Corp,Equity,Industrials,0
+1278,PHG,Kon Philips Elec Nv Newf,Equity,Consumer Discretionary,0
+1279,PHH,P H H Corporation,Equity,Financials,0
+1280,PHM,Pultegroup Inc,Equity,Consumer Discretionary,0
+1281,PHO,Powershares Water Resources - ETF,Equity,Industrials,0
+1282,PIED,Piedmont Mining Co,Equity,Natural Resources,0
+1283,PII,Polaris Inc,Equity,Consumer Discretionary,0
+1284,PINC,Premier Inc,Equity,Health Care,0
+1285,PIR,Pier One Imports,Equity,Consumer Discretionary,0
+1286,PIRRQ,Pier 1 Imports Inc,Equity,0,0
+1287,PJC,Piper Jaffray Cos New,Equity,Financials,0
+1288,PK,Park Hotels & Resort,Equity,Real Estate,0
+1289,PKI,PerkinElmer Inc,Equity,Health Care,0
+1290,PKW,Invesco BuyBack Achievers™ ETF,Equity,Large Blend,0
+1291,PLCM,Polycom Inc,Equity,Information Technology,0
+1292,PLD,Prologis,Equity,Financials,0
+1293,PLL,Pall Corp,Equity,Industrials,0
+1294,PLTR,Palantir Technologies Inc,Equity,Information Technology,Packaged Software
+1295,PM,Philip Morris Intl Inc,Equity,Consumer Staples,Tobacco
+1296,PMT,Pennymac Mtg Invt Tr,Equity,Financials,0
+1297,PNC,PNC Financial Services Group,Equity,Financials,Major Banks
+1298,PNW,Pinnacle West Capital Cp,Equity,Utilities,0
+1299,POAHY,Porsche Automobil Holding SE,Equity,0,0
+1300,POM,Potomac Electric,Equity,Utilities,0
+1301,POT,Potash Corp Sask Inc,Equity,Materials,0
+1302,PPD,PPD inc,Equity,Health Care,Miscellaneous Commercial Services
+1303,PPG,P P G Industries Inc,Equity,Materials,Industrial Specialties
+1304,PPL,PPL Corp,Equity,Utilities,Electric Utilities
+1305,PPW,Pacificorp,Equity,Utilities,0
+1306,PRAA,Portfolio Recovery Assoc,Equity,Financials,0
+1307,PRGN,Peregrine Systems Inc,Equity,Information Technology,0
+1308,PRH,Prudential Preferred,Equity,Preferred Stock,0
+1309,PRSP,Perspecta Inc,Equity,Industrials,0
+1310,PRU,Prudential Financial Inc,Equity,Financials,0
+1311,PSA,Public Storage,Equity,Real Estate,Real Estate Investment Trusts
+1312,PSA+V,Public Storage,Equity,Preferred Stock,0
+1313,PSEC,Prospect Capital Corp,Equity,Financials,0
+1314,PSFT,Peoplesoft Inc,Equity,Information Technology,0
+1315,PSL,Pwrshrs Dwa Cnsmr Stpls,Equity,Consumer Staples,0
+1316,PSP,Invesco Global Listed Private Equity ETF,Equity,International,0
+1317,PSTV,Cytori Therapeutics Inc,Equity,Health Care,Biotechnology
+1318,PSX,Phillips 66,Equity,Energy,0
+1319,PTF,Pwrshrs Dwa Technology,Equity,Information Technology,0
+1320,PTON,Peloton Interactive Inc,Equity,Consumer Discretionary,0
+1321,PTSC,Patriot Scientific Corp,Equity,Information Technology,0
+1322,PTSCD,MOSAIC IMMUNOENGINEERING ORD,Equity,0,0
+1323,PUDA,Puda Coal Inc New,Equity,Energy,0
+1324,PUI,Pwrshrs Dwa Utilities,Equity,Utilities,0
+1325,PVH,Pvh Corp,Equity,Consumer Discretionary,0
+1326,PVR,Pvr Partners Lp,Equity,Energy,0
+1327,PVT,Provident Cos Inc Del,Equity,0,0
+1328,PWAV,Powerwave Tech Inc,Equity,Information Technology,0
+1329,PWR,Quanta Services Inc,Equity,Industrials,0
+1330,PX,Praxair Inc,Equity,Materials,0
+1331,PYA,ML Depositor PPLUS Trust 7.00% Liberty Media Certi,Equity,Preferred Stock,0
+1332,PYL,ML Depositor PPLUS Trust 6.70% Liberty Media Certi,Equity,Preferred Stock,0
+1333,PYPL,PayPal Holdings Inc,Equity,Financials,Data Processing Services
+1334,PYZ,Pwrshrs Dwa Bsc Mtrls,Equity,Materials,0
+1335,PZA,Powershs Exch Trad Fd Tr,Equity,Municipal Bonds,0
+1336,Q,Qwest Communs Intl Inc,Equity,Communications,0
+1337,QCOM,Qualcomm Inc,Equity,Information Technology,Telecommunications Equipment
+1338,QCOR,Questcor Pharmaceuticals,Equity,Health Care,0
+1339,QLGC,Qlogic Corp,Equity,Information Technology,0
+1340,QQQ,Invesco QQQ Trust,Equity,Information Technology,Investment Trusts/Mutual Funds
+1341,QREDF,Quantum Rare Earth Dev,Equity,0,0
+1342,QSR,Restaurant Brands Intl Inc com,Equity,0,0
+1343,QTRRF,Quaterra Resources Inc,Equity,Natural Resources,0
+1344,QURAF,Quaterra Res Inc,Equity,Natural Resources,0
+1345,RAI,Reynolds American,Equity,Consumer Staples,0
+1346,RAS,R A I T Financial TRUST,Equity,Financials,0
+1347,RBGLY,Reckitt Benckiser Adr,Equity,Consumer Staples,Household/Personal Care
+1348,RBLX,Roblox Corp Com Cl A,Equity,Information Technology,0
+1349,RBPAA,Royal Bancshs Of Pa Cl A,Equity,Financials,0
+1350,RBS+P,Royal Bk Scot Pfd Adr,Equity,Preferred Stock,0
+1351,RBS+S,Royal Bk Scot,Equity,Preferred Stock,0
+1352,RBV,"CBS Corp., 7.25% Senior Notes due 6/30/2051",Equity,Preferred Stock,0
+1353,RCL,Royal Caribbean Cruisesf,Equity,Consumer Discretionary,0
+1354,RD,Royal Dtch 1.25 Guilderf,Equity,Energy,0
+1355,RDC,Rowan Companies Cl A,Equity,Energy,0
+1356,RDS A,ROYAL DUTCH SHELL CL A,Equity,Energy,0
+1357,RDS.B,Royal Dutch Shell PLC,Equity,Energy,0
+1358,RDSA,Royal Dutch Shell A Adrf,Equity,Energy,Energy
+1359,RDSB,Royal Dutch Shell B ADR,Equity,Energy,0
+1360,RDVA,Radva Corp,Equity,Industrials,0
+1361,RDY,Dr Reddys Labs Adr,Equity,Health Care,0
+1362,REG,Regency Centers Corp,Equity,Financials,0
+1363,REGN,Regeneron Pharmaceuticals Inc,Equity,Health Care,Biotechnology
+1364,REI,Reliant Energy Inc,Equity,Utilities,0
+1365,REL,Reliance Group Holdings,Equity,0,0
+1366,REM,Ishares Ftse Nareit Mtg,Equity,Financials,0
+1367,RESC,Roanoke Elec Steel Corp,Equity,Materials,0
+1368,REZI,Resideo Technologies Inc,Equity,Information Technology,0
+1369,RF,Regions Financial Corp,Equity,Financials,0
+1370,RFDI,First Trust RiverFront Dynamic Developed Internati,Equity,International,0
+1371,RFEM,First Trust RiverFront Dynamic EM,Equity,International,0
+1372,RFMD,R F Micro Devices Inc,Equity,Information Technology,0
+1373,RGCO,RGC Resources Inc,Equity,Utilities,Gas Distributors
+1374,RGEN,Repligen Corp,Equity,0,0
+1375,RGP,Regency Energy Partners,Equity,Energy,0
+1376,RHHBY,Roche Hldg Ltd Spon Adrf,Equity,Health Care,0
+1377,RHI,Robert Half Intl,Equity,Industrials,0
+1378,RIG,Transocean Inc New,Equity,Energy,0
+1379,RING,Ringer Corp,Equity,0,0
+1380,RIO,Rio Tinto Plc Spon Adr,Equity,Materials,0
+1381,RKY,Coors Adolph Co Class B,Equity,Consumer Discretionary,0
+1382,RLM,Reynolds Metal,Equity,Materials,0
+1383,RMCF,Rocky Mountain Choco,Equity,Consumer Staples,0
+1384,RMD,Resmed Inc,Equity,Health Care,0
+1385,RN,RJR Nabisco,Equity,0,0
+1386,ROH,Rohm & Haas Co,Equity,Materials,0
+1387,ROIC,Retail Oppty Ivenstments,Equity,Financials,0
+1388,ROKU,Roku Inc,Equity,Information Technology,Electronics/Appliances
+1389,ROP,Roper Industries Inc,Equity,Industrials,Electronic Equipment/Instruments
+1390,ROST,Ross Stores Inc,Equity,Consumer Discretionary,Apparel/Footwear Retail
+1391,RPM,R P M Incorporated Ohio,Equity,Materials,0
+1392,RPOW,R P M Inc Ohio,Equity,0,0
+1393,RPRX,Repros Therapeutics New,Equity,Health Care,0
+1394,RRC,Range Resources,Equity,Energy,0
+1395,RRD,Donnelley RR & Sons,Equity,Industrials,0
+1396,RRI,Reliant Resources Inc,Equity,Utilities,0
+1397,RS,Reliance Stl & Aluminum,Equity,Materials,0
+1398,RSG,Republic Services Inc,Equity,Industrials,0
+1399,RSH,Radioshack Corporation,Equity,Consumer Discretionary,0
+1400,RSP,Guggenheim S&P 500 Equal,Equity,Large Blend,0
+1401,RTN,Raytheon Co,Equity,Industrials,0
+1402,RTX,Raytheon Technologies,Equity,Industrials,Aerospace & Defense
+1403,RVT,Royce Value Trust             ,Equity,0,0
+1404,RVT+B,Royce Value Tr Prefd,Equity,Preferred Stock,0
+1405,RXSD,Rexall Sundown Inc,Equity,0,0
+1406,RY,Royal Bank Canada Montreal,Equity,Financials,0
+1407,RYN,Rayonier Inc,Equity,Financials,0
+1408,S,Sprint Nextel,Equity,Communications,0
+1409,SABR,Sabre Corporation,Equity,Information Technology,0
+1410,SAIC,Science Applications International Corp,Equity,Industrials,0
+1411,SANM,Sanmina Sci Corp,Equity,Information Technology,0
+1412,SBC,SBC Communications,Equity,Communications,0
+1413,SBGI,Sinclair Broadcast Group Inc,Equity,Consumer Discretionary,0
+1414,SBI,Senior Housing Properties,Equity,Municipal Bonds,0
+1415,SBNY,Signature Bk New York NY,Equity,Financials,0
+1416,SBUX,Starbucks Corp,Equity,Consumer Discretionary,Restaurants
+1417,SCE+B,Southern CA Edison Co,Equity,0,0
+1418,SCG,Scana Corporation New,Equity,Utilities,0
+1419,SCHA,Schw US Scap Etf,Equity,Small Blend,0
+1420,SCHB,Schw US Brd Mkt Etf,Equity,Large Blend,0
+1421,SCHD,Schwab Strategic Tr,Equity,Large Blend,0
+1422,SCHE,Schwab Emerging Markets Equity ETF™,Equity,International,0
+1423,SCHF,Schw Intl Eq Etf,Equity,International,0
+1424,SCHG,Schw US Lcap Gro Etf,Equity,Large Blend,0
+1425,SCHV,Schwab US Large-Cap Value ETF™,Equity,Large Blend,0
+1426,SCHW,The Charles Schwab Corp,Equity,Financials,0
+1427,SCRI,"Social Realty, Inc.           ",Equity,Health Care,0
+1428,SCTY,Solarcity Corp,Equity,Industrials,0
+1429,SCZ,iShares MSCI EAFE Small-Cap ETF,Equity,International,0
+1430,SDRL,Seadrill Ltd,Equity,Energy,0
+1431,SE,Spectra Energy,Equity,Energy,0
+1432,SEIC,S E I Investments Co,Equity,Financials,0
+1433,SFD,Smithfield Foods,Equity,Consumer Staples,0
+1434,SFE,Safeguard Scientific Inc,Equity,Information Technology,0
+1435,SGP,Schering-Plough,Equity,Health Care,0
+1436,SHI,Sinopec Shanghai Adr,Equity,Materials,0
+1437,SHOP,Shopify Inc,Equity,Information Technology,Internet Retail
+1438,SHW,Sherwin Williams Co,Equity,Materials,Industrial Specialties
+1439,SHX,Shaw Industries,Equity,0,0
+1440,SI,Silvergate Capital Corp,Equity,0,0
+1441,SIRI,Sirius XM Radio Inc,Equity,Consumer Discretionary,0
+1442,SIRO,Sirona Dental Systems,Equity,Health Care,0
+1443,SIVBO,"SVB Capital II, 7.00% Cumul Trust Preferred Securi",Equity,Preferred Stock,0
+1444,SJM,J M Smuckers Co New,Equity,Consumer Staples,Food: Specialty/Candy
+1445,SJNK,SPDR® Blmbg BarclaysST HY Bd ETF,Equity,Multi-Sector Bond,0
+1446,SKT,Tanger Fctry Outlet Ctrs,Equity,Financials,0
+1447,SKX,Skechers USA Inc,Equity,Consumer Discretionary,0
+1448,SLB,Schlumberger Ltd,Equity,Energy,0
+1449,SLC,Sun Life Financial Svcsf,Equity,Financials,0
+1450,SLCA,US Silica Holdings Inc,Equity,Energy,0
+1451,SLE,Sara Lee Corp,Equity,0,0
+1452,SLG,S L Green Realty Corp,Equity,Financials,0
+1453,SLG+C,"SL Green Realty Corp., 7.625% Series C Cumul Redee",Equity,0,0
+1454,SLM,Usa Education Inc,Equity,Financials,0
+1455,SLQD,iShares 0-5 Year Invmt Grade Corp Bd ETF,Equity,Corporate Bonds,0
+1456,SLV,Ishares Silver Trust - ETF,Equity,Natural Resources,0
+1457,SLXP,Salix Pharmaceuticals,Equity,Health Care,0
+1458,SMAR,Smartsheet Inc Class A,Equity,Information Technology,0
+1459,SMG,Scotts Miracle Group,Equity,Materials,0
+1460,SMRT,Stein Mart Inc,Equity,Consumer Discretionary,0
+1461,SNE,Sony,Equity,Consumer Discretionary,0
+1462,SNH,Senior Housing Pptys Tr,Equity,Financials,0
+1463,SNN,Smith & Nephew Adr New,Equity,Health Care,0
+1464,SNY,Sanofi Aventis Adr,Equity,Health Care,0
+1465,SO,Southern Co,Equity,Utilities,Electric Utilities
+1466,SOHU,Sohu.Com Inc,Equity,Information Technology,0
+1467,SOJA,Southern Compan,Equity,Preferred Stock,0
+1468,SOJB,Southern Compan,Equity,Preferred Stock,0
+1469,SOLV,Solv-Ex Corp,Equity,0,0
+1470,SON,Sonoco Products Co,Equity,Materials,0
+1471,SONA,Southern Natl Bancor,Equity,Financials,Regional Banks
+1472,SONC,Sonic Corp,Equity,Consumer Discretionary,0
+1473,SOR,Source Capital Cf,Equity,Large Blend,0
+1474,SOTR,Southtrust Corp,Equity,Financials,0
+1475,SOUHY,South32 Ltd,Equity,Materials,0
+1476,SPA,Sparton Corp,Equity,Industrials,0
+1477,SPG,Simon Ppty Group New,Equity,Financials,0
+1478,SPH,Suburban Propane L P,Equity,Utilities,0
+1479,SPHI,Studio Plus Hotels Inc,Equity,0,0
+1480,SPLG,SPDR® Portfolio S&P 500 ETF,Equity,Large Blend,0
+1481,SPLS,Staples Inc,Equity,Consumer Discretionary,0
+1482,SPMD,SPDR® Portfolio Mid Cap ETF,Equity,Mid Cap Blend,0
+1483,SPOT,Spotify Technology SA,Equity,Information Technology,0
+1484,SPRD,Spreadtrum Commun Adr,Equity,Information Technology,0
+1485,SPY,"SPDRs, S&P 500 Index",Equity,Large Blend,0
+1486,SQ,Square Inc,Equity,Information Technology,Information Technology Services
+1487,SRCL,Stericycle Inc,Equity,Industrials,0
+1488,SRE,Sempra Energy,Equity,Utilities,0
+1489,SROY.F,Sailfish Royalty Corp,Equity,0,0
+1490,SRPT,Sarepta Therapeutics Inc,Equity,Health Care,0
+1491,SRZ,Sunrise Senior Living,Equity,Health Care,0
+1492,SSE,Seventy Seven Energy,Equity,Energy,0
+1493,SSL,"Sasol , LTD",Equity,Energy,0
+1494,SSP,EW Scripps,Equity,Consumer Discretionary,0
+1495,SSS,Sovran Self Storage Inc,Equity,Financials,0
+1496,SSYS,Stratasys Ltd,Equity,Information Technology,0
+1497,STAG,Stag Industrial Inc,Equity,Real Estate,0
+1498,STI,Suntrust,Equity,Financials,0
+1499,STI+,Suntrust Cap IV,Equity,0,0
+1500,STI+E,Suntrust Banks,Equity,Preferred Stock,0
+1501,STLD,Steel Dynamics Inc,Equity,Materials,0
+1502,STMP,Stamps.Com Inc,Equity,Information Technology,0
+1503,STNE,StoneCo Ltd,Equity,0,0
+1504,STT,State Street Corp,Equity,Financials,0
+1505,STWD,Starwood Property Trust Inc,Equity,Real Estate,0
+1506,STX,Seagate Technology Plc,Equity,Information Technology,0
+1507,STZ,Constellation Brands,Equity,Consumer Staples,0
+1508,SU,Suncor Energy Inc,Equity,Energy,0
+1509,SUI,Sun Communities,Equity,Real Estate,0
+1510,SUN,Sun Co. Inc,Equity,Energy,0
+1511,SUNW,Sun Microsystems Inc,Equity,Information Technology,0
+1512,SUPN,Supernus Pharma,Equity,Health Care,0
+1513,SV,Stilwell Financial Inc,Equity,Financials,0
+1514,SVC,Hospitality Properties Trust,Equity,Real Estate,0
+1515,SVM,ServiceMaster,Equity,Consumer Discretionary,0
+1516,SVU,Supervalu Inc,Equity,Consumer Staples,0
+1517,SWHS,Swisher Hygiene Inc,Equity,Consumer Staples,0
+1518,SWK,Stanley Black & Decker Inc,Equity,Industrials,0
+1519,SWN,Southwestern Energy Co,Equity,Energy,0
+1520,SWYC,Skyway Communs Hldgs Cp,Equity,Information Technology,0
+1521,SXA,Abbey Natl Plc,Equity,Preferred Stock,0
+1522,SYF,Synchrony Financial,Equity,Financials,0
+1523,SYK,Stryker Corp,Equity,Health Care,Medical Specialties
+1524,SYLD,Cambria ETF TR,Equity,Large Blend,0
+1525,SYMC,Symantec Corp,Equity,Information Technology,0
+1526,SYN,Syntex Corp.,Equity,0,0
+1527,SYNL,Synalloy Corp,Equity,Materials,0
+1528,SYSM,Systemed Inc Del,Equity,0,0
+1529,SYY,Sysco Corporation,Equity,Consumer Staples,0
+1530,SZSMF,Santacruz Silver Mining Ltd,Equity,0,0
+1531,T,AT&T Inc.,Equity,Communications,Major Telecommunications
+1532,TAN,Invesco Solar ETF,Equity,Information Technology,Investment Trusts/Mutual Funds
+1533,TAP,Molson Coors Brewing Company,Equity,Consumer Staples,0
+1534,TAPA,Travelers Ppty Casualty,Equity,Financials,0
+1535,TAPB,Travelers Ppty Casualty,Equity,Financials,0
+1536,TCEGF,Terraco Gold Corp,Equity,Natural Resources,0
+1537,TCEHY,Tencent Holdings Ltd ADR,Equity,Information Technology,0
+1538,TCK,Teck Resources Ltd Cl Bf,Equity,Materials,0
+1539,TCOMA,Tele Comm Inc Cl A,Equity,0,0
+1540,TD,Toronto Dominion Bank,Equity,Financials,0
+1541,TDA,"Telephone and Data Systems Inc., 7.60% Series A No",Equity,Preferred Stock,0
+1542,TDC,Teradata Corp,Equity,Information Technology,0
+1543,TDCAZ,Theraputic Disc,Equity,0,0
+1544,TDF,Templeton Dragon Fund,Equity,International,0
+1545,TDIV,First Trust NASDAQ Technology Div ETF,Equity,Information Technology,0
+1546,TDM,Tandem Computers,Equity,0,0
+1547,TE,Teco Energy Inc,Equity,Utilities,0
+1548,TECH,Techne Corp Common,Equity,Health Care,0
+1549,TEF,Telefonica ADR,Equity,Communications,0
+1550,TEG,Energy Group Plc Adr,Equity,Utilities,0
+1551,TEL,"TE Connectivity, LTD",Equity,Information Technology,0
+1552,TELE,Telefonica de Espana,Equity,Communications,0
+1553,TESS,Tessco Technologies Inc,Equity,Information Technology,0
+1554,TEST,test holding,Equity,Consumer Staples,0
+1555,TEVA,Teva Pharm Inds Ltd Adrf,Equity,Health Care,0
+1556,TEX,Terex Corp,Equity,Industrials,0
+1557,TFC,Truist Finl Corp Com,Equity,Financials,Regional Banks
+1558,TFI,SPDR® Nuveen Blmbg Barclays Muni Bd ETF,Equity,0,0
+1559,TG,Tredegar Ind Inc,Equity,Industrials,0
+1560,TGH,Trigon Healthcare Inc,Equity,0,0
+1561,TGIC,Triad Guaranty Inc,Equity,Financials,0
+1562,TGN,Texas Genco Holdings,Equity,Utilities,0
+1563,TGP,Teekay Lng Partners LP,Equity,Energy,0
+1564,TGT,Target Corporation,Equity,Consumer Discretionary,Specialty Stores
+1565,TI,Telecom Italia Spa Adr,Equity,Communications,0
+1566,TICC,TICC Capital Corp,Equity,Financials,0
+1567,TIE,Titanium Metals Corp New,Equity,Materials,0
+1568,TIF,Tiffany & Co New,Equity,Consumer Discretionary,0
+1569,TIME,TIME INC NEW,Equity,Consumer Discretionary,0
+1570,TIP,iShares TIPS Bond ETF,Equity,Government Bonds,0
+1571,TJX,T J X Cos Inc,Equity,Consumer Discretionary,0
+1572,TKN,Thermotrex Corp,Equity,0,0
+1573,TKR,The Timken Co,Equity,Industrials,0
+1574,TKTM,Ticket Master,Equity,Consumer Discretionary,0
+1575,TLAB,Tellabs Inc,Equity,Information Technology,0
+1576,TLN,Talen Energy Corpora,Equity,Utilities,0
+1577,TLRY,Tilray Inc,Equity,Health Care,Agricultural Commodities/Milling
+1578,TM,Toyota Motor Cp Adr Newf,Equity,Consumer Discretionary,0
+1579,TME,Tencent Music Entertainment Group,Equity,Communications,0
+1580,TMK,Torchmark Corp.,Equity,Financials,0
+1581,TMO,Thermo Fisher Scientific Inc,Equity,Health Care,Medical Specialties
+1582,TNS,TNS Inc,Equity,Information Technology,0
+1583,TOL,Toll Brothers Inc,Equity,Real Estate,0
+1584,TOT,Total S A,Equity,Energy,0
+1585,TOWN,Towne Bank,Equity,Financials,Regional Banks
+1586,TQQQ,ProShares UltraPro QQQ,Equity,0,0
+1587,TRI,Tri Summit Bank,Equity,Financials,0
+1588,TRIP,Tripadvisor Inc,Equity,Communications,0
+1589,TRLY,Terra Networks Spon Adrf,Equity,Information Technology,0
+1590,TROW,T. Rowe Price Group Inc,Equity,Financials,Investment Managers
+1591,TROX,Tronox Ltd Class A,Equity,Materials,0
+1592,TRP,TC Energy Corp.,Equity,Energy,Oil & Gas Pipelines
+1593,TRTC,Terra Tech Corp,Equity,0,0
+1594,TRV,Travelers Companies Inc,Equity,Financials,Multi-Line Insurance
+1595,TSI,TCW Strategic Income Fund     ,Equity,Multi-Sector Bond,0
+1596,TSL,Trina Solar Ltd Adr,Equity,Information Technology,0
+1597,TSLA,Tesla Motors Inc,Equity,Consumer Discretionary,Motor Vehicles
+1598,TSM,Taiwan Semiconductor Adr,Equity,Information Technology,Semiconductors
+1599,TSN,Tyson Foods Inc,Equity,Consumer Staples,0
+1600,TSS,Total Systems Servic,Equity,Information Technology,0
+1601,TSY,Trustreet Properties Inc,Equity,0,0
+1602,TSY+A,Trustreet Pptys Cv A Pfd,Equity,0,0
+1603,TTD,The Trade Desk Inc Com Cl A,Equity,Information Technology,Advertising/Marketing Services
+1604,TTM,Tata Motors Ltd Adr,Equity,Consumer Discretionary,0
+1605,TTWO,TAKE-TWO INTERACTIVE SOFTWRE,Equity,Communications,0
+1606,TUES,Tuesday Morning Corp,Equity,Consumer Discretionary,0
+1607,TVE,Tenn Vly Auth A,Equity,Corporate Bonds,0
+1608,TWC,Time Warner Cable,Equity,Consumer Discretionary,0
+1609,TWLO,Twilio Inc.,Equity,Information Technology,0
+1610,TWTR,TWITTER INC,Equity,Communications,0
+1611,TWX,Time Warner,Equity,Consumer Discretionary,0
+1612,TX,Texaco Inc,Equity,Energy,0
+1613,TXAPF,Texaco Capital pre cl A,Equity,0,0
+1614,TXN,Texas Instruments Inc,Equity,Information Technology,Semiconductors
+1615,TXT,Textron,Equity,Industrials,0
+1616,TXU,Texas Utilities Co,Equity,Utilities,0
+1617,TYC,Tyco Intl Ltd New,Equity,Industrials,0
+1618,TZG,Bear Stearns Depositor,Equity,0,0
+1619,TZH,Trizec Hahn Cp Sub Vtg,Equity,0,0
+1620,UBSH,Union Bankshares Corp,Equity,Financials,0
+1621,UBX,Unity Biotechnology Inc,Equity,Health Care,Biotechnology
+1622,UCM,Unicom,Equity,Utilities,0
+1623,UDOW,Proshares Ultrapro Etf,Equity,Large Blend,0
+1624,UDR,United Dominion Realty,Equity,Real Estate,0
+1625,UFI,"Unifi, Inc",Equity,Consumer Discretionary,0
+1626,UIS,Unisys Corp,Equity,Information Technology,0
+1627,UL,Unilever,Equity,Consumer Staples,0
+1628,UMG,Media One Group,Equity,Communications,0
+1629,UMPQ,Umpqua Holdings Corp,Equity,Financials,0
+1630,UNH,Unitedhealth Group Inc,Equity,Health Care,Managed Health Care
+1631,UNM,Unumprovident Corp,Equity,Financials,0
+1632,UNP,Union Pac Corp,Equity,Industrials,Railroads
+1633,UPL,Ultra Petroleum Corp (Cananda),Equity,Energy,0
+1634,UPS,United Parcel Service Inc,Equity,Industrials,Air Freight/Couriers
+1635,URBN,Urban Outfitters Inc,Equity,Consumer Discretionary,0
+1636,USA,Liberty All-Star              ,Equity,Large Blend,0
+1637,USAT,Usa Technologies Inc New,Equity,0,0
+1638,USB,U S Bancorp Del New,Equity,Financials,0
+1639,USF,United States Filter New,Equity,0,0
+1640,USHY,iShares Broad USD High Yield Corp Bd ETF,Equity,High Yield Bonds,0
+1641,USO,United States Oil Fund,Equity,Energy,0
+1642,UST,U S T Inc,Equity,Consumer Staples,0
+1643,USW,U S West Inc.,Equity,Communications,0
+1644,UTHR,United Therapeutics Corp,Equity,Health Care,0
+1645,UTX,United Technologies,Equity,Industrials,0
+1646,UVN,Univision Communs Inc,Equity,Consumer Discretionary,0
+1647,UWR,United Water Resources,Equity,Utilities,0
+1648,UWTI,Credit Suisse Etn,Equity,Energy,0
+1649,V,Visa Inc,Equity,Information Technology,Finance/Rental/Leasing
+1650,VAC,Marriott Vacations,Equity,Consumer Discretionary,Other Consumer Services
+1651,VAL,Valaris PLC,Equity,0,0
+1652,VAL.WS,VALARIS EQY WARRANT,Equity,0,0
+1653,VALE,Vale Sa Adr,Equity,Materials,0
+1654,VALPQ,Valaris PLC,Equity,0,0
+1655,VALU,Value Line Inc,Equity,Consumer Discretionary,0
+1656,VAR,Varian Medical Systems,Equity,Health Care,0
+1657,VARI,Varian Inc,Equity,Health Care,0
+1658,VB,Vanguard Small Cap ETF,Equity,Small Blend,0
+1659,VBK,Vanguard Small-Cap Growth ETF,Equity,Small Blend,0
+1660,VBR,Vanguard Small-Cap Value ETF,Equity,Small Blend,0
+1661,VC,Visteon Corp,Equity,Consumer Discretionary,0
+1662,VCIT,Vanguard Intermediate-Term Corp Bd ETF,Equity,Multi-Sector Bond,0
+1663,VCSH,Vanguard Short Term Cor,Equity,Multi-Sector Bond,0
+1664,VDC,Vanguard Consumer Staples,Equity,Consumer Staples,Investment Trusts/Mutual Funds
+1665,VDE,Vanguard Energy Etf,Equity,Energy,0
+1666,VDSI,Vasco Data Security Intl,Equity,Information Technology,0
+1667,VEA,Vanguard FTSE Developed Markets ETF,Equity,International,0
+1668,VEL+A,Va Power Cap II,Equity,0,0
+1669,VER,Vereit Inc,Equity,Financials,0
+1670,VERD,Verdant Brands Inc,Equity,Materials,0
+1671,VEU,Vanguard Intl Eqty Index,Equity,International,0
+1672,VFC,VF Corp.,Equity,Consumer Discretionary,0
+1673,VGK,Vanguard Ftse Europe,Equity,International,0
+1674,VGT,Vanguard Info Technology,Equity,Information Technology,0
+1675,VIAB,Viacom Inc Cl B New,Equity,Communications,0
+1676,VIAC,Viacomcbs Cl B Ord,Equity,Communications,0
+1677,VIG,Vanguard Dividend Appreciation ETF,Equity,Large Blend,0
+1678,VIGN,Vignette Corporation,Equity,Information Technology,0
+1679,VIR,Vir Biotechnology Inc,Equity,0,0
+1680,VIS,Vanguard Industrials,Equity,Industrials,0
+1681,VLO,Valero Energy Corp New,Equity,Energy,0
+1682,VMC,Vulcan Materials Company,Equity,Materials,0
+1683,VMI,Valmont Inds Inc,Equity,Industrials,0
+1684,VNO,Vornado Realty TRUST,Equity,Financials,0
+1685,VNQ,Vanguard Reit,Equity,Financials,0
+1686,VNR,Vanguard Natural Res Llc,Equity,Energy,0
+1687,VO,Vanguard Mid-Cap ETF,Equity,Mid Cap Blend,0
+1688,VOD,Vodafone AirTouch,Equity,Communications,0
+1689,VOE,Vanguard Mid-Cap Value ETF,Equity,Mid Cap Blend,0
+1690,VOO,Vanguard S&P 500 Etf,Equity,Large Blend,0
+1691,VOT,Vanguard Mid-Cap Growth ETF,Equity,Mid Cap Blend,0
+1692,VRP,Powershares Variable,Equity,Preferred Stock,0
+1693,VRSN,Verisign Inc,Equity,Information Technology,0
+1694,VRTV,Veritiv Corporation,Equity,Industrials,0
+1695,VRX,Valeant Pharm,Equity,Health Care,0
+1696,VSM,Versum Materials Inc,Equity,Information Technology,0
+1697,VSS,Vanguard FTSE All-World ex-US Sm-Cp ETF,Equity,International,0
+1698,VT,Vanguard Total World Stock ETF,Equity,International,0
+1699,VTEB,Vanguard Tax-Exempt Bond ETF,Equity,0,0
+1700,VTI,Vanguard Total Stock Mkt,Equity,Large Blend,0
+1701,VTR,Ventas Inc,Equity,Real Estate,0
+1702,VTRS,Viatris Inc,Equity,Health Care,0
+1703,VTV,Vanguard Value ETF,Equity,Large Blend,0
+1704,VUG,Vanguard Growth ETF,Equity,Large Blend,0
+1705,VVUS,Vivus Inc,Equity,Health Care,0
+1706,VWO,Vanguard Emerging Market,Equity,International,0
+1707,VYFC,Valley Financial Corp Va,Equity,Financials,0
+1708,VZ,Verizon Communications Inc.,Equity,Communications,Major Telecommunications
+1709,WAB,WABTEC Corp,Equity,Industrials,0
+1710,WAG,Walgreen Company,Equity,Consumer Staples,0
+1711,WAP3Z,Western Asset Core Plus Bond Fund,Equity,Corporate Bonds,0
+1712,WAT,Waters Corp,Equity,Health Care,0
+1713,WATT,Energous Corp,Equity,Industrials,0
+1714,WB,Wachovia Corp,Equity,Financials,0
+1715,WBA,WALGREENS BOOTS ALLIANCE INC,Equity,Consumer Staples,0
+1716,WBC,Wabco Holdings Inc,Equity,Industrials,0
+1717,WBS,Webster Financial Corp,Equity,Financials,0
+1718,WCG,Williams Communs Group A,Equity,Communications,0
+1719,WCN,Waste Connections Inc.,Equity,Industrials,Environmental Services
+1720,WCO,Wells Fargo Xiv,Equity,Financials,0
+1721,WDC,Western Digital Corp,Equity,Information Technology,0
+1722,WDFC,WD-40 Company,Equity,Consumer Staples,Industrial Specialties
+1723,WEB,Web.Com Group Inc,Equity,Information Technology,0
+1724,WEBX,Webex Communications Inc,Equity,Information Technology,0
+1725,WEC,Wisconsin Energy Corp,Equity,Utilities,0
+1726,WELL,Welltower Inc Com,Equity,Real Estate,0
+1727,WEN,Wendys International Inc,Equity,0,0
+1728,WFC,Wells Fargo & Co New,Equity,Financials,Major Banks
+1729,WFC+J,Wells Fargo 8% Preferred,Equity,Preferred Stock,0
+1730,WFC+V,Wells Fargo & Co,Equity,Preferred Stock,0
+1731,WFCWS,Wells Fargo & Co   18wts,Equity,Financials,0
+1732,WFMI,Whole Foods Market Inc,Equity,Consumer Staples,0
+1733,WFR,Memc Electrnc Materials,Equity,Information Technology,0
+1734,WFT,Weatherford Intl Ltd,Equity,Energy,0
+1735,WGL,Wgl Holdings Inc,Equity,Utilities,0
+1736,WHR,Whirlpool Corp,Equity,Consumer Discretionary,0
+1737,WIN,Windstream Corporation,Equity,Communications,0
+1738,WIT,Wipro Ltd Adr,Equity,Information Technology,0
+1739,WL,Wilmington TRUST Corp,Equity,Financials,0
+1740,WLA,Warner Lambert Company,Equity,Health Care,0
+1741,WLP,Wellpoint Inc,Equity,Health Care,0
+1742,WLT,Walter Industries Inc,Equity,Industrials,0
+1743,WM,Waste Management,Equity,Industrials,Environmental Services
+1744,WMB,Williams Companies,Equity,Energy,Oil & Gas Pipelines
+1745,WMI,Waste Management Inc Del,Equity,Industrials,0
+1746,WMIH,Wmih Corp,Equity,Real Estate,0
+1747,WMT,Wal-Mart Stores,Equity,Consumer Staples,Food Retail
+1748,WMX,WMX Technologies,Equity,0,0
+1749,WPC,W.P. Carey Inc. REIT,Equity,Real Estate,0
+1750,WPF,Wells Fargo Cap V,Equity,0,0
+1751,WPG,WP GLIMCHER Inc.,Equity,Financials,0
+1752,WPI,Watson Pharmaceuticals,Equity,Health Care,0
+1753,WPK,Wells Fargo Cap Preferred 5.85%,Equity,Preferred Stock,0
+1754,WPS,iShares International Dev Prpty ETF,Equity,International,0
+1755,WPZ,Williams Partners Lp,Equity,Energy,0
+1756,WRE,Washington Real Estate,Equity,Financials,0
+1757,WRI,Weingarten Rlty Invs Sbi,Equity,Financials,0
+1758,WSF,Wells Fargo Cap Tr,Equity,Financials,0
+1759,WSH,Willis Group Holdings,Equity,Financials,0
+1760,WSM,Williams Sonoma,Equity,Consumer Discretionary,0
+1761,WSO,Watsco Inc,Equity,Industrials,0
+1762,WTM,White Mountains Insurance Group,Equity,Financials,0
+1763,WTR,Aqua America Inc,Equity,Utilities,0
+1764,WTRG,Essential Utilities Inc,Equity,Utilities,Water Utilities
+1765,WTW,Weight Watchers Intl Inc,Equity,Consumer Discretionary,0
+1766,WU,Western Union Company,Equity,Information Technology,0
+1767,WWAV,Whitewave Foods,Equity,Consumer Staples,0
+1768,WWWNQ,Worldwide Wireless New,Equity,Communications,0
+1769,WWY,Wrigley Wm JR Co,Equity,Consumer Staples,0
+1770,WWYWB,Wrigley Wm JR Co Cl B,Equity,Consumer Staples,0
+1771,WY,Weyerhaeuser Co,Equity,Materials,0
+1772,WYE,Wyeth,Equity,Health Care,0
+1773,WYN,Wyndham Worldwide Corp,Equity,Consumer Discretionary,0
+1774,WYNN,Wynn Resorts Ltd,Equity,Consumer Discretionary,0
+1775,X,United States Steel,Equity,Materials,0
+1776,XBKS,Xenith Bankshares Inc,Equity,Financials,0
+1777,XENITH,XENITH Bank Shares,Equity,Financials,0
+1778,XL,Xl Capital Ltd A Shs,Equity,Financials,0
+1779,XLC,Communication Services Sel Sect SPDR®ETF,Equity,0,0
+1780,XLF,Spider Special Financial,Equity,Financials,0
+1781,XLI,Industrial Select Sector SPDR® ETF,Equity,Industrials,0
+1782,XLNX,Xilinx Inc.,Equity,Information Technology,Semiconductors
+1783,XLP,Spider Consumer Staples,Equity,Consumer Staples,Investment Trusts/Mutual Funds
+1784,XLU,Sector Spdr Util Select,Equity,Utilities,0
+1785,XLV,Select Sector Spdr Trust The Health Care Select Se,Equity,Health Care,0
+1786,XLY,Select Sector Spdr Fund Shs Ben Consumer Discretio,Equity,Consumer Discretionary,0
+1787,XOM,Exxon Mobil Corp.,Equity,Energy,Integrated Oil
+1788,XON,Intrexon,Equity,Health Care,0
+1789,XON-OLD,Exxon Corporation,Equity,Energy,0
+1790,XPO,XPO Logistics Inc,Equity,Industrials,0
+1791,XPRT,Lecg Corp,Equity,0,0
+1792,XRX,Xerox Corp,Equity,Information Technology,0
+1793,XTO,Xto Energy Inc,Equity,Energy,0
+1794,XXII,22nd Century Group Inc,Equity,Health Care,0
+1795,XXX,EQUITY PLACEHOLDER,Equity,Money Market Fund,0
+1796,YAVY,Yadkin Valley Financial,Equity,Financials,0
+1797,YHOO,Yahoo! Inc,Equity,Information Technology,0
+1798,YINN,Direxion Daily FTSE China Bull 3X ETF,Equity,International,0
+1799,YONK,Younkers Inc,Equity,0,0
+1800,YPF,YPF SA Adr,Equity,Energy,0
+1801,YRCW,Y R C Worldwide Inc,Equity,Industrials,0
+1802,YUM,Tricon Global Restr Inc,Equity,Consumer Staples,0
+1803,YUMC,Yum China Holdings I,Equity,Consumer Discretionary,0
+1804,Z,Zillow Group Inc,Equity,Communications,Information Technology Services
+1805,ZBRA,Zebra Technologies Corp,Equity,Information Technology,0
+1806,ZINC,Horsehead Holding Corp,Equity,Materials,0
+1807,ZM,Zoom Video,Equity,Information Technology,Packaged Software
+1808,ZMH,Zimmer Holdings Inc,Equity,Health Care,0
+1809,ZNGA,Zynga Inc Class A,Equity,Communications,0
+1810,ZTS,Zoetis Inc,Equity,Health Care,Pharmaceuticals: Generic
